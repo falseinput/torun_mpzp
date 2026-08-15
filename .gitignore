@@ -1,0 +1,5 @@
+data/input/
+data/output/
+*.vrt
+*.part
+.DS_Store

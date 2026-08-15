@@ -1,0 +1,77 @@
+#!/bin/bash
+set -e
+
+if [ "$#" -lt 2 ] || [ "$#" -gt 3 ]; then
+  echo "Usage: $0 <input_dir> <output_dir> [max_zoom]"
+  echo "  max_zoom: Web Mercator zoom level the output grid is snapped to (default 19)"
+  echo "            20 = 0.149 m/px (3857) = 0.090 m/px on the ground at Torun (~8 GB city-wide)"
+  echo "            19 = 0.299 m/px (3857) = 0.180 m/px on the ground at Torun (~2 GB city-wide)"
+  echo "            18 = 0.597 m/px (3857) = 0.359 m/px on the ground at Torun (~0.5 GB city-wide)"
+  exit 1
+fi
+
+INPUT_DIR="$(realpath "$1")"
+mkdir -p "$2"
+OUTPUT_DIR="$(realpath "$2")"
+ZOOM="${3:-19}"
+VRT="$OUTPUT_DIR/merged.vrt"
+REPROJECTED="$OUTPUT_DIR/reprojected.tiff"
+OUTPUT_COG="$OUTPUT_DIR/output_cog.tiff"
+
+mkdir -p "$OUTPUT_DIR"
+
+# The city uses both extensions - 3 of the 249 sheets are .tif, the rest .tiff.
+shopt -s nullglob
+TIFF_FILES=("$INPUT_DIR"/*.tiff "$INPUT_DIR"/*.tif)
+shopt -u nullglob
+if [ "${#TIFF_FILES[@]}" -eq 0 ]; then
+  echo "Error: No .tif/.tiff files found in $INPUT_DIR"
+  exit 1
+fi
+echo "Mosaicking ${#TIFF_FILES[@]} sheets at zoom $ZOOM"
+
+rm -f "$VRT" "$REPROJECTED" "$OUTPUT_COG"
+
+# Web Mercator pixel size at ZOOM. Snapping -tr to this means the tiler never has
+# to resample again, and -tap lands the grid exactly on tile boundaries.
+RES=$(python3 -c "print(repr(156543.033928 / 2**$ZOOM))")
+
+# Give GDAL a real block cache; the default 5% of RAM makes the warp thrash.
+export GDAL_CACHEMAX=4096
+
+# Step 1: Build virtual raster.
+# -resolution highest is the important bit. The default is "average", which for
+# these sheets (0.10 - 1.70 m/px, a 17x spread) rebuilds everything at ~0.57 m/px
+# and throws away the detail of the high-res sheets before the warp even starts.
+# Source alpha bands are honoured as masks here, so overlapping sheets composite
+# correctly and transparent margins do not punch holes in their neighbours.
+gdalbuildvrt -resolution highest "$VRT" "${TIFF_FILES[@]}"
+
+# Step 2: Reproject to EPSG:3857 (Web Mercator).
+# -r lanczos, not near: these are scanned line drawings, and nearest-neighbour
+# drops hairline strokes and shreds text wherever a sheet is downsampled.
+gdalwarp "$VRT" "$REPROJECTED" \
+  -t_srs EPSG:3857 \
+  -tr "$RES" "$RES" -tap \
+  -r lanczos \
+  -multi -wo NUM_THREADS=ALL_CPUS \
+  -co TILED=YES -co COMPRESS=DEFLATE -co PREDICTOR=2 \
+  -co BIGTIFF=YES -co NUM_THREADS=ALL_CPUS \
+  -overwrite
+
+# Step 3: Convert to proper Cloud Optimized GeoTIFF.
+# COMPRESS=NONE would be tens of GB at this resolution. DEFLATE+PREDICTOR=2 is
+# lossless and compresses these scans hard because most of each sheet is flat white.
+# OVERVIEW_RESAMPLING=AVERAGE keeps the zoomed-out view readable; the COG default
+# thins line work until it visibly breaks up.
+gdal_translate "$REPROJECTED" "$OUTPUT_COG" -of COG \
+  -co COMPRESS=DEFLATE -co PREDICTOR=2 -co LEVEL=9 \
+  -co BLOCKSIZE=512 \
+  -co OVERVIEW_RESAMPLING=AVERAGE \
+  -co BIGTIFF=YES -co NUM_THREADS=ALL_CPUS
+
+# Optional cleanup
+rm -f "$VRT" "$REPROJECTED"
+
+echo "✅ Final COG created: $OUTPUT_COG"
+gdalinfo "$OUTPUT_COG" | grep -E "Size is|Pixel Size"

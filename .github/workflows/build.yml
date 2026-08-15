@@ -1,0 +1,124 @@
+name: Build and publish MPZP COG
+
+on:
+  workflow_dispatch:
+    inputs:
+      zoom:
+        description: "Web Mercator zoom to snap the mosaic to (18/19/20)"
+        required: false
+        default: "19"
+      force_rebuild:
+        description: "Rebuild even if the city has published no changes"
+        type: boolean
+        default: false
+  schedule:
+    # Plans change a few times a year; the city has 30 days to publish after a
+    # resolution takes effect, so monthly is comfortably often enough.
+    - cron: "0 3 1 * *"
+
+concurrency:
+  group: build-mpzp
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      ZOOM: ${{ github.event.inputs.zoom || '19' }}
+      INPUT_DIR: data/input
+      OUTPUT_DIR: data/output
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # The mosaic plus its intermediate needs well over the ~14 GB the runner
+      # image leaves free by default.
+      - name: Free up disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
+                      /usr/local/share/boost "$AGENT_TOOLSDIRECTORY"
+          df -h /
+
+      - name: Install GDAL
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq gdal-bin python3-gdal
+          gdalinfo --version
+
+      - name: Fetch manifest from the city WFS
+        id: manifest
+        run: python3 scripts/fetch_manifest.py -o manifest.json
+
+      - name: Detect changes
+        id: changed
+        run: |
+          if [ "${{ github.event.inputs.force_rebuild }}" = "true" ]; then
+            echo "result=true" >> "$GITHUB_OUTPUT"
+            echo "Forced rebuild requested."
+          elif [ -n "$(git status --porcelain -- manifest.json)" ]; then
+            # --porcelain, not `git diff`: on the very first run manifest.json is
+            # untracked, and `git diff` says nothing about untracked files.
+            echo "result=true" >> "$GITHUB_OUTPUT"
+            git --no-pager diff --stat -- manifest.json || true
+          else
+            echo "result=false" >> "$GITHUB_OUTPUT"
+            echo "No plan changes since last run."
+          fi
+
+      # Keyed on the plan/version digest, so a city update misses the cache and
+      # only the changed sheets are re-fetched. restore-keys keeps the rest.
+      - name: Restore source sheets
+        if: steps.changed.outputs.result == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.INPUT_DIR }}
+          key: mpzp-sources-${{ steps.manifest.outputs.version_hash }}
+          restore-keys: mpzp-sources-
+
+      - name: Download source sheets
+        if: steps.changed.outputs.result == 'true'
+        run: python3 scripts/download_sources.py -m manifest.json -o "$INPUT_DIR"
+
+      - name: Build COG
+        if: steps.changed.outputs.result == 'true'
+        run: |
+          ./scripts/create_cog "$INPUT_DIR" "$OUTPUT_DIR" "$ZOOM"
+          ls -lh "$OUTPUT_DIR/output_cog.tiff"
+          df -h /
+
+      # R2 speaks the S3 API. aws-cli is preinstalled on the runner.
+      # Secrets: R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET
+      - name: Publish to R2
+        if: steps.changed.outputs.result == 'true'
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          # R2 does not support the streaming checksum trailers newer aws-cli
+          # sends by default, and rejects the upload with 501 Not Implemented.
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+        run: |
+          aws s3 cp "$OUTPUT_DIR/output_cog.tiff" \
+            "s3://${{ secrets.R2_BUCKET }}/mpzp.tif" \
+            --endpoint-url "https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com" \
+            --content-type image/tiff \
+            --cache-control "public, max-age=86400"
+          aws s3 cp manifest.json \
+            "s3://${{ secrets.R2_BUCKET }}/manifest.json" \
+            --endpoint-url "https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com" \
+            --content-type application/json \
+            --cache-control "public, max-age=3600"
+
+      - name: Commit manifest
+        if: steps.changed.outputs.result == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "Update MPZP manifest (${{ steps.manifest.outputs.version_hash }})" || exit 0
+          git push

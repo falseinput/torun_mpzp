@@ -1,0 +1,3213 @@
+{
+  "source": {
+    "wfs": "https://voxly.pl/geoserver/voxly_app_0463011/wfs",
+    "typeName": "voxly_app_0463011:app.AktPlanowaniaPrzestrzennego.MPZP",
+    "datasetId": "PL.ZIPPZP.3853"
+  },
+  "planCount": 245,
+  "rasterCount": 249,
+  "versionHash": "5e9126e9c89696bffb3deb0c33ae467cfa08379ae30340ad0edf43d424e74dab",
+  "plans": [
+    {
+      "lokalnyId": "mpzp_1",
+      "wersjaId": "19960228T101800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego Osiedle „Pod Dębową Górą”.",
+      "obowiazujeOd": "1996-02-28Z",
+      "gml": "https://voxly.pl/export/app/1c2120d9-060f-4d3f-a126-53fb0107c555.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8810ad21-366b-464e-be2e-7303c02dcf6a/mpzp_1_zg.tiff",
+          "filename": "mpzp_1_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_10",
+      "wersjaId": "20000610T113000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 57 UO.",
+      "obowiazujeOd": "2000-06-10Z",
+      "gml": "https://voxly.pl/export/app/2fb94a37-189d-4e38-a746-9373006b49f7.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/af6f7084-06ad-4ff0-9aaa-764ec3e5c991/mpzp_10_zg.tiff",
+          "filename": "mpzp_10_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_100",
+      "wersjaId": "20091008T104800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Lubickiej, Targowej i Winnica.",
+      "obowiazujeOd": "2009-10-08Z",
+      "gml": "https://voxly.pl/export/app/cb0e3d44-522e-4e01-ab1a-d471ae30261c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/81e61dcf-cd71-40be-b4f9-548a689171da/mpzp_100_zg.tiff",
+          "filename": "mpzp_100_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_101",
+      "wersjaId": "20091118T105200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego Os. „Kaszczorek” dla terenów położonych u zbiegu ulic: Turystycznej, Gościnnej, Na Przełaj i Zakole.",
+      "obowiazujeOd": "2009-11-18Z",
+      "gml": "https://voxly.pl/export/app/b49534bc-d4f7-40cf-a11c-31e9c5387fb5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/eb7bd4b9-68db-421f-8e15-3253b53f810f/mpzp_101_zg.tiff",
+          "filename": "mpzp_101_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_102",
+      "wersjaId": "20100123T105600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu „Poznańska - Gniewkowska - Glinki”.",
+      "obowiazujeOd": "2010-01-23Z",
+      "gml": "https://voxly.pl/export/app/51f683c7-6cf7-4c47-b99d-abbc1a67f9ce.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f189602e-685e-4572-b5f2-3e8a6bcd6610/mpzp_102_zg.tiff",
+          "filename": "mpzp_102_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_103",
+      "wersjaId": "20100227T105800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ulicami: Grudziądzką, Wielki Rów i Trasą Mostową w osi ul. Waryńskiego.",
+      "obowiazujeOd": "2010-02-27Z",
+      "gml": "https://voxly.pl/export/app/34a34f5b-b4a9-496f-bd8a-ab2767fbad15.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/77914d1e-6e84-43c4-9877-d73961861579/mpzp_103_zg.tiff",
+          "filename": "mpzp_103_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_104",
+      "wersjaId": "20100411T110100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Włocławskiej, Spacerowej i Solankowej.",
+      "obowiazujeOd": "2010-04-11Z",
+      "gml": "https://voxly.pl/export/app/5c3395d4-f6e7-4cd3-95a0-aa62ca17af88.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/dcc19a4e-85f1-46ee-ab72-d2c5a0b4656d/mpzp_104_zg.tiff",
+          "filename": "mpzp_104_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_105",
+      "wersjaId": "20100503T110400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic Olsztyńskiej i Wapiennej, przy granicy z wsią Grębocin.",
+      "obowiazujeOd": "2010-05-03Z",
+      "gml": "https://voxly.pl/export/app/020bd516-ca7f-44ad-9e8d-344c1d9e8a6b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7cb2a197-e1a6-4051-9547-d3fb55c4ae11/mpzp_105_zg.tiff",
+          "filename": "mpzp_105_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_106",
+      "wersjaId": "20100514T111300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic Olsztyńskiej i Ceramicznej oraz linii kolejowej relacji Toruń – Sierpc.",
+      "obowiazujeOd": "2010-05-14Z",
+      "gml": "https://voxly.pl/export/app/828f667f-f84a-4fd0-891e-b0275269f200.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/97c2e990-3a36-4282-ba7e-568080d2a1d7/mpzp_106_zg.tiff",
+          "filename": "mpzp_106_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_107",
+      "wersjaId": "20240927T000001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru „Grębocin Nad Strugą - C”.",
+      "obowiazujeOd": "2024-09-27Z",
+      "gml": "https://voxly.pl/export/app/a91fc036-79ae-45a2-b14d-a1b5addc2d0e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3a167167-5c77-4478-a8ff-9b3530b5709d/mpzp_107_zg_v2.tiff",
+          "filename": "mpzp_107_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_108",
+      "wersjaId": "20100604T113800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Osady Barbarka”, dla terenu położonego przy ul.Przysieckiej i wzdłuż ul.Barbarka.",
+      "obowiazujeOd": "2010-06-04Z",
+      "gml": "https://voxly.pl/export/app/450bb879-9164-4b63-abc4-7cbdfa8cf870.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9e0341b0-0b3c-4fb0-8c57-8c24aec542ad/mpzp_108_zg.tiff",
+          "filename": "mpzp_108_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_109",
+      "wersjaId": "20100614T114100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy ulicami Mickiewicza, Reja i Szosą Bydgoską.",
+      "obowiazujeOd": "2010-06-14Z",
+      "gml": "https://voxly.pl/export/app/27698c16-0aed-4915-99c8-9712a92e7007.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/90adeacc-55d0-4737-a65a-85d9359c7dfe/mpzp_109_zg.tiff",
+          "filename": "mpzp_109_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_11",
+      "wersjaId": "20000425T113400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Włocławska”.",
+      "obowiazujeOd": "2000-04-25Z",
+      "gml": "https://voxly.pl/export/app/0bc459e0-e444-4821-a032-54584836f363.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f5b6e2f8-841f-4e8f-a523-f51d54f368e6/mpzp_11_zg.tiff",
+          "filename": "mpzp_11_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_110",
+      "wersjaId": "20231017T060101",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul. Sobieskiego i ul. Waryńskiego w Toruniu.",
+      "obowiazujeOd": "2023-10-17Z",
+      "gml": "https://voxly.pl/export/app/abe71dbb-00c6-46a6-a519-a1ad08483286.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b74b4168-4536-4dbb-a93d-26de5866adb8/mpzp_110_zg_v2.tiff",
+          "filename": "mpzp_110_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_111",
+      "wersjaId": "20101119T122000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Równinna-Morwowa” dla obszaru położonego pomiędzy ul.Płaską, ul.Równinną i ul.Morwową wraz z terenami przyległymi.",
+      "obowiazujeOd": "2010-11-19Z",
+      "gml": "https://voxly.pl/export/app/1226d9db-c782-4a18-96e3-4dab68600a72.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/71aa2762-a411-4507-893f-eec5efd1cb54/mpzp_111_zg.tiff",
+          "filename": "mpzp_111_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_112",
+      "wersjaId": "20100918T122800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul. Grunwaldzkiej 64.",
+      "obowiazujeOd": "2010-09-18Z",
+      "gml": "https://voxly.pl/export/app/cbd46109-4814-4ab2-ba5a-283d0a0cb577.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7d3d35d7-38b7-45c5-ac5b-d3a8504c8d8a/mpzp_112_zg.tiff",
+          "filename": "mpzp_112_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_113",
+      "wersjaId": "20101013T123200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla ul.Polnej i Szosy Okrężnej, na odcinku od ul.Szosa Chełmińska do Trasy Średnicowej oraz terenów przyległych.",
+      "obowiazujeOd": "2010-10-13Z",
+      "gml": "https://voxly.pl/export/app/113fb265-9302-450b-80e3-ac735e2a1285.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/bc5e19aa-e586-45a7-b197-27117acd4ddc/mpzp_113_zg.tiff",
+          "filename": "mpzp_113_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_114",
+      "wersjaId": "20101227T123700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Szosa Okrężna, Bielańska Łukasiewicza i Broniewskiego.",
+      "obowiazujeOd": "2010-12-27Z",
+      "gml": "https://voxly.pl/export/app/0aab5797-3e05-4115-9bdc-f4bd56310216.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3a1ea869-51ed-415d-b036-76bd993668f4/mpzp_114_zg.tiff",
+          "filename": "mpzp_114_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_115",
+      "wersjaId": "20101225T125300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Broniewskiego i Szosa Bydgoska.",
+      "obowiazujeOd": "2010-12-25Z",
+      "gml": "https://voxly.pl/export/app/0629a1b0-a729-4de2-89af-3d4ebc13a6c5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0629f110-f4cb-4448-b1f0-9e29e961f751/mpzp_115_zg.tiff",
+          "filename": "mpzp_115_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_116",
+      "wersjaId": "20110124T130500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Winnica i Ścieżka Szkolna.",
+      "obowiazujeOd": "2011-01-24Z",
+      "gml": "https://voxly.pl/export/app/89a84403-fd69-4d15-8155-f4954e2f4d9b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/da498d5a-69f6-4855-a389-1706bd6cdd36/mpzp_116_zg.tiff",
+          "filename": "mpzp_116_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_117",
+      "wersjaId": "20110211T130900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Szosa Lubicka, Winnica i Rzeczna.",
+      "obowiazujeOd": "2011-02-11Z",
+      "gml": "https://voxly.pl/export/app/cfb78fe6-5bd3-4be6-8014-6f03686b92dd.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d2e3e4a3-9a91-48dc-b821-90abb711d80f/mpzp_117_zg.tiff",
+          "filename": "mpzp_117_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_118",
+      "wersjaId": "20110708T132300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej „trasy średnicowej” na odcinku: ul.Św.Józefa - ul.Szosa Okrężna.",
+      "obowiazujeOd": "2011-07-08Z",
+      "gml": "https://voxly.pl/export/app/76cd1821-9c61-4db4-80cb-4867566fbb40.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/68faeb23-9452-4175-b5b9-43eac201893e/mpzp_118_zg.tiff",
+          "filename": "mpzp_118_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_119",
+      "wersjaId": "20110814T132700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu lotniska w Toruniu wraz z częścią terenów przyległych.",
+      "obowiazujeOd": "2011-08-14Z",
+      "gml": "https://voxly.pl/export/app/23bc21ec-d41d-4997-911b-99cc36b23e7f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/311dd23a-af54-40d2-8a4b-c57f1ed5cadd/mpzp_119_zg.tiff",
+          "filename": "mpzp_119_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_12",
+      "wersjaId": "20000111T114100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: Z O1 RL, Z 21 ZD (linia energetyczna).",
+      "obowiazujeOd": "2000-01-11Z",
+      "gml": "https://voxly.pl/export/app/014429cc-28c3-4cb1-a8bf-71bfafd14e4e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4dce34a1-d376-4f6c-986d-6233734b3aa2/mpzp_12_zg.tiff",
+          "filename": "mpzp_12_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_120",
+      "wersjaId": "20240927T000001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru ograniczonego ulicami: Olsztyńską, Olimpijską, Szosą Lubicką oraz linia kolejową relacji Toruń- Sierpc.",
+      "obowiazujeOd": "2024-09-27Z",
+      "gml": "https://voxly.pl/export/app/6b7fe138-1c26-4d77-ad35-94c0411a5e4a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/40b873a0-5e92-43f8-8ac3-841fc72c8ede/mpzp_120_zg_v3.tiff",
+          "filename": "mpzp_120_zg_v3.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_121",
+      "wersjaId": "20110901T134000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Broniewskiego, Reja, Gagarina, Balonowej i Bema.",
+      "obowiazujeOd": "2011-09-01Z",
+      "gml": "https://voxly.pl/export/app/662af7f6-df3f-4b87-aaa0-e5e9a7057af3.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b1c40025-d045-4252-ba39-4f8b342cefcf/mpzp_121_zg.tiff",
+          "filename": "mpzp_121_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_123",
+      "wersjaId": "20111023T135500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego na Bydgoskim Przedmieściu w Toruniu, ograniczonego ulicami: Szosa Bydgoska, Bydgoska, Danielewskiego, Rybaki oraz ujściem Portu Zimowego, linią brzegową Wisły i terenami rezerwowanymi pod zachodnią przeprawę mostową (Park).",
+      "obowiazujeOd": "2011-10-23Z",
+      "gml": "https://voxly.pl/export/app/6d1c70ba-2c86-40f9-8deb-bc92794bf90a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0c926bb9-6d95-4e6f-945e-f819b0260a33/mpzp_123_zg.tiff",
+          "filename": "mpzp_123_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_124",
+      "wersjaId": "20111110T140200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ul.Kozacką, ul.Grudziądzką, ul.Żwirki i Wigury a ul.Lotników oraz części terenu przyległego do ul.Grudziądzkiej na odcinku pomiędzy ul.Żwirki i Wigury a projektowaną trasą średnicową.",
+      "obowiazujeOd": "2011-11-10Z",
+      "gml": "https://voxly.pl/export/app/68fd93cf-bc3b-4db3-8858-d59c5888159a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7e816e9c-8bde-494a-bf42-a42a7760d195/mpzp_124_zg.tiff",
+          "filename": "mpzp_124_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_125",
+      "wersjaId": "20140815T142700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ulicami: Gregorkiewicza, Przy Kaszowniku, Dobrzyńską i Placem Św. Katarzyny w Toruniu.",
+      "obowiazujeOd": "2014-08-15Z",
+      "gml": "https://voxly.pl/export/app/d0ca0eeb-b4c1-41b4-8ac8-0dae969a81bb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6c3c16c6-267d-4483-bf3b-33cf84307302/mpzp_125_zg.tiff",
+          "filename": "mpzp_125_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_126",
+      "wersjaId": "20150508T143500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic Szosa Chełmińska, Żwirki i Wigury oraz Św. Józefa.",
+      "obowiazujeOd": "2015-05-08Z",
+      "gml": "https://voxly.pl/export/app/74407609-dbac-4880-a451-80d20467e290.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/578befeb-d280-405a-84b7-d3ec67d46dd6/mpzp_126_zg.tiff",
+          "filename": "mpzp_126_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_127",
+      "wersjaId": "20111111T145700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy ul. Armii Ludowej, Gen. W. Andersa i „Trasą Staromostową”.",
+      "obowiazujeOd": "2011-11-11Z",
+      "gml": "https://voxly.pl/export/app/ee90b813-2d78-4ba8-bc9c-befc6a2b6749.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/fca91922-54fb-4634-b658-e4db7255e014/mpzp_127_zg.tiff",
+          "filename": "mpzp_127_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_128",
+      "wersjaId": "20160114T145900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ul. Gen. W. Andersa i trasy S-10 w Toruniu.",
+      "obowiazujeOd": "2016-01-14Z",
+      "gml": "https://voxly.pl/export/app/7d669d42-a1dd-4cc4-93f6-11b07da00379.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f7e39ff2-9a5d-4fd7-98bc-068a5f372ca2/mpzp_128_zg.tiff",
+          "filename": "mpzp_128_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_129",
+      "wersjaId": "20240808T075801",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego osiedla „Wrzosy Leśne- Polana”.",
+      "obowiazujeOd": "2024-08-08Z",
+      "gml": "https://voxly.pl/export/app/fb007704-8014-4b87-b1d3-f470f2025bb6.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9c787c9e-8981-493c-9aca-fe56cdf793ef/mpzp_129_zg_v2.tiff",
+          "filename": "mpzp_129_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_13",
+      "wersjaId": "20000617T114500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 28 MN.",
+      "obowiazujeOd": "2000-06-17Z",
+      "gml": "https://voxly.pl/export/app/167fdf6a-f549-44d8-8bd6-391b4f950e90.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3be31695-00d8-44cd-a0b0-c04fdf5fc461/mpzp_13_zg.tiff",
+          "filename": "mpzp_13_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_132",
+      "wersjaId": "20120504T081600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Zdrojowej oraz Włocławskiej.",
+      "obowiazujeOd": "2012-05-04Z",
+      "gml": "https://voxly.pl/export/app/f4a69b7c-d62a-450e-84d6-e350268f79e5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ac3d57b4-9470-4973-92cc-37b9b15594b1/mpzp_132_zg.tiff",
+          "filename": "mpzp_132_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_134",
+      "wersjaId": "20120811T085000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Poznańskiej i ul.Kluczyki, ul.Poznańskiej i ul.Inowrocławskiej oraz przy ul.Drzymały.",
+      "obowiazujeOd": "2012-08-11Z",
+      "gml": "https://voxly.pl/export/app/e39b06aa-da55-4807-a1e5-c665970e24db.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3317c9dc-af4a-4fb9-80b2-cb3b1c783e55/mpzp_134_zg.tiff",
+          "filename": "mpzp_134_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_135",
+      "wersjaId": "20120811T100500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Przelot.",
+      "obowiazujeOd": "2012-08-11Z",
+      "gml": "https://voxly.pl/export/app/196cdfdf-2bec-4c16-9a8d-b28f9702243d.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/fd49bd77-b752-463c-a36b-d0c69b9ecb12/mpzp_135_zg.tiff",
+          "filename": "mpzp_135_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_136",
+      "wersjaId": "20120811T100900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego u zbiegu ul. Grudziądzkiej i ul. Szosa Chełmińska.",
+      "obowiazujeOd": "2012-08-11Z",
+      "gml": "https://voxly.pl/export/app/35e972ec-268e-4924-9726-69912c9267b4.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/dd64f3e5-0bdb-4e67-9b1d-39e78c709ec4/mpzp_136_zg.tiff",
+          "filename": "mpzp_136_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_137",
+      "wersjaId": "20140114T101200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Łódzka-Lipnowska”, dla terenu położonego w rejonie ulic: Łódzkiej, Lipnowskiej i Włocławskiej.",
+      "obowiazujeOd": "2014-01-14Z",
+      "gml": "https://voxly.pl/export/app/12d2d523-b101-4dc5-909b-121639a40924.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/697686ff-9229-4ab7-a6ed-63c9b1c0344b/mpzp_137_zg.tiff",
+          "filename": "mpzp_137_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_137b",
+      "wersjaId": "20210602T101500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Łódzka-Lipnowska”, dla terenu położonego w rejonie ulic: Łódzkiej, Lipnowskiej i Włocławskiej.",
+      "obowiazujeOd": "2021-06-02Z",
+      "gml": "https://voxly.pl/export/app/05461975-607d-4b75-aaa9-004ae6b49b90.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/232bafcf-6376-417d-ab19-01c5eec8fd79/mpzp_137b_zg.tiff",
+          "filename": "mpzp_137b_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_138",
+      "wersjaId": "20230728T081001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ul.: Szosa Chełmińska, Podgórna, Legionów i Grudziądzka.",
+      "obowiazujeOd": "2023-07-28Z",
+      "gml": "https://voxly.pl/export/app/70f6cf48-89d3-4446-98f0-823fce710f56.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9bee9e9f-aef8-4dcd-864f-a21856329b34/mpzp_138_zg_v2.tiff",
+          "filename": "mpzp_138_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_139",
+      "wersjaId": "20130111T103200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Poznańskiej, pomiędzy ul.Parkową a ul.Środkową oraz pomiędzy terenami składowymi a ul.Młyńską.",
+      "obowiazujeOd": "2013-01-11Z",
+      "gml": "https://voxly.pl/export/app/4189d65a-c3e6-489b-a006-a9dfcbb02ced.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/fb6a8e53-e7f1-4533-bb0b-559938c439bc/mpzp_139_zg_2.tiff",
+          "filename": "mpzp_139_zg_2.tiff"
+        },
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/78f97f14-d9c6-4d3b-be71-e7ef91a901f8/mpzp_139_zg_1.tiff",
+          "filename": "mpzp_139_zg_1.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_14",
+      "wersjaId": "20000929T114800",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego obszar: J 106 KZo, J 54a ZL, J 54b UKJ 54c ZL.",
+      "obowiazujeOd": "2000-09-29Z",
+      "gml": "https://voxly.pl/export/app/e2dbb8f4-e659-4b04-9aab-7a007349f29a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/1508f9a8-cf31-4eff-ad9b-ea430987509f/mpzp_14_zg.tiff",
+          "filename": "mpzp_14_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_140",
+      "wersjaId": "20130111T103600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla odcinka ul.Poznańskiej oraz terenu położonego pomiędzy ul.Szubińską i ul.Gniewkowską.",
+      "obowiazujeOd": "2013-01-11Z",
+      "gml": "https://voxly.pl/export/app/3f3c1853-61e9-4b78-ba65-96836dbdc0f9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/56b72e96-35ad-42c6-8cc0-4100ad035122/mpzp_140_zg.tiff",
+          "filename": "mpzp_140_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_141",
+      "wersjaId": "20130113T104600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.M.Skłodowskiej-Curie i ul.Bukowej.",
+      "obowiazujeOd": "2013-01-13Z",
+      "gml": "https://voxly.pl/export/app/2ebd84ed-f0f5-485d-bc97-f773ebdffbad.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c5e7af51-44ff-47a5-a1d2-be423da2790c/mpzp_141_zg.tiff",
+          "filename": "mpzp_141_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_142",
+      "wersjaId": "20130125T105100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów Miasteczka Uniwersyteckiego UMK.",
+      "obowiazujeOd": "2013-01-25Z",
+      "gml": "https://voxly.pl/export/app/a40ca7e6-bf7e-45cf-8a23-61fe869e4ac0.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c1cca246-2bd2-45fa-8396-fa121072e8fe/mpzp_142_zg.tiff",
+          "filename": "mpzp_142_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_143",
+      "wersjaId": "20231114T070801",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Aleja Solidarności” dla terenu położonego w rejonie ulic: Al. Solidarności, Wały Gen.Sikorskiego i Uniwersyteckiej.",
+      "obowiazujeOd": "2023-11-14Z",
+      "gml": "https://voxly.pl/export/app/67934a18-a333-452d-af34-a00d1ca91f56.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/30bfa338-21f4-4801-95f0-8264bc275c4c/mpzp_143_zg_v2.tiff",
+          "filename": "mpzp_143_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_144",
+      "wersjaId": "20141120T110700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Osiedle Fałata” dla terenów położonych w rejonie ulic: Broniewskiego, Reja, Gagarina, Balonowej i Bema.",
+      "obowiazujeOd": "2014-11-20Z",
+      "gml": "https://voxly.pl/export/app/c227ba18-11f4-4136-88f8-7b107d0a853b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c48e1973-1e3a-4732-802d-251258b9df7a/mpzp_144_zg.tiff",
+          "filename": "mpzp_144_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_145",
+      "wersjaId": "20130615T112700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ulicach: Osiedlowej, Morycińskiego i trasie średnicowej.",
+      "obowiazujeOd": "2013-06-15Z",
+      "gml": "https://voxly.pl/export/app/1e33a214-4ce6-4c28-b4ea-3fb3e7bcde4f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/324687d5-a65c-403b-8895-a7553ecca55c/mpzp_145_zg.tiff",
+          "filename": "mpzp_145_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_146",
+      "wersjaId": "20130815T125400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Chrzanowskiego” dla obszaru położonego pomiędzy linią kolejową do Lipna, Strugą Toruńską i wschodnią częścią terenu zakładu Elana.",
+      "obowiazujeOd": "2013-08-15Z",
+      "gml": "https://voxly.pl/export/app/4e94a483-c646-4b33-8fce-3d9549490343.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a7129c9d-9da4-4bd6-9506-289895b1efdb/mpzp_146_zg.tiff",
+          "filename": "mpzp_146_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_147",
+      "wersjaId": "20251217T230001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Podgórska-Strzałowa” dla obszaru położonego w rejonie ulic: Podgórskiej, Strzałowej i Gerwazego.",
+      "obowiazujeOd": "2026-01-22Z",
+      "gml": "https://voxly.pl/export/app/96de855c-d446-4861-a242-7cdce6507cd4.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6232de0c-64b1-401d-be2d-ea0d3c0086da/mpzp_147_zg_v2.tiff",
+          "filename": "mpzp_147_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_148",
+      "wersjaId": "20150122T132000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ul.Ceglanej i bocznicy kolejowej, na zapleczu terenów ciepłowni.",
+      "obowiazujeOd": "2015-01-22Z",
+      "gml": "https://voxly.pl/export/app/a082107a-4985-4a4d-a267-7c1389459a62.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ae03bcbc-08f0-4cdb-84e8-18121d06d949/mpzp_148_zg.tiff",
+          "filename": "mpzp_148_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_149",
+      "wersjaId": "20140410T135700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Szosy Okrężnej, Polnej, Morycińskiego i Trasy Średnicowej.",
+      "obowiazujeOd": "2014-04-10Z",
+      "gml": "https://voxly.pl/export/app/17e30163-d176-4cad-b291-efe6c99a93da.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/38c81ccf-3bfe-41a8-9a96-3a3c2ae03093/mpzp_149_zg.tiff",
+          "filename": "mpzp_149_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_15",
+      "wersjaId": "20001110T115500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: J 70 MW/U i J 70a MN.",
+      "obowiazujeOd": "2000-11-10Z",
+      "gml": "https://voxly.pl/export/app/9d43edd7-fad7-4011-8925-598388cc41a5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f7c5d99e-4aae-4237-af80-96bf373893da/mpzp_15_zg.tiff",
+          "filename": "mpzp_15_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_150",
+      "wersjaId": "20140502T140100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego dla terenów położonych przy ul.Poznańskiej i ul.Kluczyki, ul.Poznańskiej i ul.Inowrocławskiej oraz przy ul.Drzymały.",
+      "obowiazujeOd": "2014-05-02Z",
+      "gml": "https://voxly.pl/export/app/45c1438e-7595-4c97-875c-7a71d2b48d5b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/05eb8dce-fc60-4eb9-99e9-1d9c64f96ed6/mpzp_150_zg_2.tiff",
+          "filename": "mpzp_150_zg_2.tiff"
+        },
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/affb73fb-ca22-4b9d-adc3-efb42062e962/mpzp_150_zg_1.tiff",
+          "filename": "mpzp_150_zg_1.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_151",
+      "wersjaId": "20140719T140500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru w rejonie ulic: Popiela i Rusa.",
+      "obowiazujeOd": "2014-07-19Z",
+      "gml": "https://voxly.pl/export/app/7efd003b-e623-49ef-88e5-8039723b6943.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4210cadf-b0f2-44d4-9d02-91f0fd8fa3e2/mpzp_151_zg.tiff",
+          "filename": "mpzp_151_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_152",
+      "wersjaId": "20140719T140800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Pawia-Przysiecka” dla obszaru położonego pomiędzy: granicą administracyjną miasta, ulicami Szosą Chełmińską i Słowiczą oraz terenem kolejowym.",
+      "obowiazujeOd": "2014-07-19Z",
+      "gml": "https://voxly.pl/export/app/1544a157-7ec9-4d17-959d-61c716ba4284.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8be95c65-2f4d-4867-9a9d-cbc5dc4c61c8/mpzp_152_zg.tiff",
+          "filename": "mpzp_152_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_153",
+      "wersjaId": "20140831T141200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ulicami: Lubicką, Waryńskiego, Antczaka i Pułaskiego.",
+      "obowiazujeOd": "2014-08-31Z",
+      "gml": "https://voxly.pl/export/app/0b0a783d-08b8-4bc9-9357-080819da9c25.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/87e18b0d-5955-495e-bb74-037c2436b222/mpzp_153_zg.tiff",
+          "filename": "mpzp_153_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_154",
+      "wersjaId": "20140831T141400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul. Winnej oraz w rejonie Fortu I.",
+      "obowiazujeOd": "2014-08-31Z",
+      "gml": "https://voxly.pl/export/app/6185c6b5-69f5-4e97-9250-44244f8a4f84.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6ed50ff8-9e30-4aa4-b176-c72589fb2fb2/mpzp_154_zg.tiff",
+          "filename": "mpzp_154_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_155",
+      "wersjaId": "20141018T142000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic Grunwaldzkiej, Szosy Chełmińskiej i Bema.",
+      "obowiazujeOd": "2014-10-18Z",
+      "gml": "https://voxly.pl/export/app/e9cc68ca-2df2-4a87-bf75-41417c1aed4a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a16e9504-837f-4a1d-b730-827cc7301bc5/mpzp_155_zg.tiff",
+          "filename": "mpzp_155_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_156",
+      "wersjaId": "20141206T142600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Dworcowej, Chrobrego, Fabrycznej i Trasy Średnicowej.",
+      "obowiazujeOd": "2014-12-06Z",
+      "gml": "https://voxly.pl/export/app/bb4f3e75-16ce-4e80-9643-d81db7550020.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a19a3463-8da6-4f83-a077-5406a5342125/mpzp_156_zg.tiff",
+          "filename": "mpzp_156_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_157",
+      "wersjaId": "20150425T143000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ulicami: Inowrocławską, Okólną i Gen.W.Andersa.",
+      "obowiazujeOd": "2015-04-25Z",
+      "gml": "https://voxly.pl/export/app/7082f50f-294c-4f4b-93aa-cbd47e23e298.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7fc139ef-8aed-4ae6-808f-a3267c782e91/mpzp_157_zg.tiff",
+          "filename": "mpzp_157_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_158",
+      "wersjaId": "20150422T143300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul. Bema i Gałczyńskiego.",
+      "obowiazujeOd": "2015-04-22Z",
+      "gml": "https://voxly.pl/export/app/74b68281-7abe-421f-8e68-73e97675f8c1.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/521af969-1312-4d75-89be-198be9b75470/mpzp_158_zg.tiff",
+          "filename": "mpzp_158_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_159",
+      "wersjaId": "20150508T121300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Piekarskie Góry” dla obszaru położonego pomiędzy ulicami: Kraszewskiego, Matejki, Słowackiego i Sienkiewicza.",
+      "obowiazujeOd": "2015-05-08Z",
+      "gml": "https://voxly.pl/export/app/842e86a2-eef1-46c6-a459-8d319ce27dab.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a32e3d47-ffc5-437d-8d97-7676294ba915/mpzp_159_zg.tiff",
+          "filename": "mpzp_159_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_160",
+      "wersjaId": "20150711T121900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Wąska-Boczna” dla obszaru położonego przy ul. Św. Józefa.",
+      "obowiazujeOd": "2015-07-11Z",
+      "gml": "https://voxly.pl/export/app/e139d4c5-c64b-45e9-8452-7d664f5142ef.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/cede2564-c55e-45d6-94f7-d508a9b74ebd/mpzp_160_zg.tiff",
+          "filename": "mpzp_160_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_161",
+      "wersjaId": "20150801T124100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic M.Skłodowskie-Curie i Równinnej.",
+      "obowiazujeOd": "2015-08-01Z",
+      "gml": "https://voxly.pl/export/app/25b47956-df53-484b-8523-bc3458b89939.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e96c44e6-5988-4a14-bc90-c2b88aee518c/mpzp_161_zg.tiff",
+          "filename": "mpzp_161_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_162",
+      "wersjaId": "20230610T110201",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Watzenrodego, Grudziądzkiej i Polnej.",
+      "obowiazujeOd": "2023-06-10Z",
+      "gml": "https://voxly.pl/export/app/6d32e2aa-b318-444c-ad01-9fb03263133f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6af5c3b0-efba-4137-9055-88cad9c6ba51/mpzp_162_zg_v2.tiff",
+          "filename": "mpzp_162_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_163",
+      "wersjaId": "20151102T131500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic Łącznej i Puchacza oraz ul. Stawki Południowe.",
+      "obowiazujeOd": "2015-11-02Z",
+      "gml": "https://voxly.pl/export/app/6a965c1f-a280-4fc6-a36e-dcb2e2613096.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d3417fbc-91b0-49aa-a1ad-3f5ff46bb7c7/mpzp_163_zg.tiff",
+          "filename": "mpzp_163_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_164",
+      "wersjaId": "20151121T132900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ulicy Szosa Bydgoska - „Park Handlowy”.",
+      "obowiazujeOd": "2015-11-21Z",
+      "gml": "https://voxly.pl/export/app/79148fd3-b079-4c82-a0d8-38a753525ea1.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8306ffe9-035f-4d1d-bf0a-979ab6226733/mpzp_164_zg.tiff",
+          "filename": "mpzp_164_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_165",
+      "wersjaId": "20151121T134500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Stawki-Andersa”, dla terenów położonych w rejonie ulic: Gen. W. Andersa, M. Sinorackiej, M. Tokarzewskiego-Karaszewicza i Szuwarów.",
+      "obowiazujeOd": "2015-11-21Z",
+      "gml": "https://voxly.pl/export/app/acbfcb8b-f815-460e-9049-fac8efb900eb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/271709d0-694a-4e1b-9384-1421135ca60c/mpzp_165_zg.tiff",
+          "filename": "mpzp_165_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_166",
+      "wersjaId": "20250520T000001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie: Podgórskiej, Okólnej, Grzybowej, Dwernickiego i Starej Drogi.",
+      "obowiazujeOd": "2025-05-20Z",
+      "gml": "https://voxly.pl/export/app/6d02f7d9-4099-437d-bc0a-c8b78450bcff.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/abffa77d-1ebf-4996-896a-fb0b24da20ac/mpzp_166_zg_v2.tiff",
+          "filename": "mpzp_166_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_167",
+      "wersjaId": "20160213T140900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy ul.Grudziądzką, ul.Pod Dębową Górą i Trasą Średnicową.",
+      "obowiazujeOd": "2016-02-13Z",
+      "gml": "https://voxly.pl/export/app/7a562aad-4bf8-453c-aad9-c54b5ac9f791.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/44dc7367-57dc-4116-ae06-12215e25ba3c/mpzp_167_zg.tiff",
+          "filename": "mpzp_167_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_168",
+      "wersjaId": "20160213T141700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego osiedla Kaszczorek w Toruniu, dla terenów położonych w rejonie: ul.Szczęśliwej, ul.Kubusia Puchatka, ul.Balladyny oraz ul.Sindbada.",
+      "obowiazujeOd": "2016-02-13Z",
+      "gml": "https://voxly.pl/export/app/f9cd5487-413b-438d-8946-1364395d025f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9a9c09ab-44fb-4794-a5bb-47e6edc82444/mpzp_168_zg.tiff",
+          "filename": "mpzp_168_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_169",
+      "wersjaId": "20160430T144700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy ulicą Szosa Bydgoska i ulicą Łukasiewicza.",
+      "obowiazujeOd": "2016-04-30Z",
+      "gml": "https://voxly.pl/export/app/8003e3ce-8d74-4da7-84e4-a34d8c4de57d.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/91089ad5-752c-49cf-a76a-0c47c86ea9d4/mpzp_169_zg.tiff",
+          "filename": "mpzp_169_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_17",
+      "wersjaId": "20010419T121700",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 66 UM.",
+      "obowiazujeOd": "2001-04-19Z",
+      "gml": "https://voxly.pl/export/app/fb3fc2a1-6507-47fe-9759-80dc741a442f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f2c7a063-bcc1-492a-849b-af03c2386814/mpzp_17_zg.tiff",
+          "filename": "mpzp_17_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_170",
+      "wersjaId": "20201002T104300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Winnica” dla terenów położonych w otoczeniu Mostu Gen. Elżbiety Zawackiej.",
+      "obowiazujeOd": "2020-10-02Z",
+      "gml": "https://voxly.pl/export/app/65f8784c-ff1a-4155-a45d-1cad0c43c23a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/529e1483-cd89-441d-88f8-49757392ce7e/mpzp_170_zg.tiff",
+          "filename": "mpzp_170_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_171",
+      "wersjaId": "20160708T121400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego”Osiedle Fałata” dla terenów położonych w rejonie ulic: Broniewskiego, Reja, Gagarina, Balonowej i Bema.",
+      "obowiazujeOd": "2016-07-08Z",
+      "gml": "https://voxly.pl/export/app/7b514930-d6e0-4c48-87d5-5a5594d0295a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/edd5a5dc-dc4a-4d59-bacc-02028ed18dad/mpzp_171_zg.tiff",
+          "filename": "mpzp_171_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_172",
+      "wersjaId": "20160708T121800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul.Sobieskiego i ul.Podchorążych.",
+      "obowiazujeOd": "2016-07-08Z",
+      "gml": "https://voxly.pl/export/app/59137b41-05b4-4b37-b323-498d9b35bbc8.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/61346c98-91ce-4590-834a-eefa47fc82c5/mpzp_172_zg.tiff",
+          "filename": "mpzp_172_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_173",
+      "wersjaId": "20161029T123200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul.Legionów, Rondzie Czadcy i ul.Wielki Rów.",
+      "obowiazujeOd": "2016-10-29Z",
+      "gml": "https://voxly.pl/export/app/b5eda41c-5c2e-4936-a600-5cf9e0745d49.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/df0a562c-8975-46be-b613-fffedec0613d/mpzp_173_zg.tiff",
+          "filename": "mpzp_173_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_174",
+      "wersjaId": "20161029T123700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie wieży ciśnień i przy ul.Akacjowej.",
+      "obowiazujeOd": "2016-10-29Z",
+      "gml": "https://voxly.pl/export/app/2138a0d5-1e97-4403-b312-82f1024b0777.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/85c93f63-f67d-43f7-bcce-5c582dfa6d92/mpzp_174_zg.tiff",
+          "filename": "mpzp_174_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_175",
+      "wersjaId": "20161029T123900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru „Jakubskie Przedmieście” położonego w rejonie ulic: Żółkiewskiego, Szosa lubicka, Targowa i Lubicka.",
+      "obowiazujeOd": "2016-10-29Z",
+      "gml": "https://voxly.pl/export/app/4b48fbf3-b31f-47eb-98af-228fe7d46e86.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b3a7e2a7-5396-44eb-b044-851d5ca1012b/mpzp_175_zg.tiff",
+          "filename": "mpzp_175_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_176",
+      "wersjaId": "20161029T132200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Wiązowej i ul.Podgórnej.",
+      "obowiazujeOd": "2016-10-29Z",
+      "gml": "https://voxly.pl/export/app/6473bd20-d198-4bc8-90b0-3b674a639f34.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e9ff79f7-a7a1-4456-88cc-9aaef955e074/mpzp_176_zg.tiff",
+          "filename": "mpzp_176_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_177",
+      "wersjaId": "20171219T142800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego osiedla Bielawy dla obszaru położonego przy ul.Olsztyńskiej i Suwalskiej oraz przy ul.Szczecińskiej i Koszalińskiej.",
+      "obowiazujeOd": "2017-12-19Z",
+      "gml": "https://voxly.pl/export/app/923ac0dc-0ff6-4063-9292-37bcd65d9490.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6d253feb-d50b-40da-9184-585907c0a706/mpzp_177_zg.tiff",
+          "filename": "mpzp_177_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_178",
+      "wersjaId": "20161123T140200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Aleksandrowskiej i ul.Włocławskiej.",
+      "obowiazujeOd": "2016-11-23Z",
+      "gml": "https://voxly.pl/export/app/dd411703-2653-471d-9518-cf0d649ea5cd.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a8e2ae54-12a5-4135-92b9-8823d06b41cb/mpzp_178_zg_2.tiff",
+          "filename": "mpzp_178_zg_2.tiff"
+        },
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/02087740-0d99-48f1-b6bb-dd6f6d6f1574/mpzp_178_zg_1.tiff",
+          "filename": "mpzp_178_zg_1.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_179",
+      "wersjaId": "20161217T142000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Czerniewice - Przy Torze”.",
+      "obowiazujeOd": "2016-12-17Z",
+      "gml": "https://voxly.pl/export/app/838d8ca2-a6d5-4298-92f7-d7d8950842d5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f3eb497d-72c4-495b-ae1e-006ae38967fb/mpzp_179_zg.tiff",
+          "filename": "mpzp_179_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_18",
+      "wersjaId": "20010523T122000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 92a RPO.",
+      "obowiazujeOd": "2001-05-23Z",
+      "gml": "https://voxly.pl/export/app/04852691-eaf5-4e63-b1a8-cc6d0409a343.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2710ce03-f857-448d-b011-3e647e22f5ed/mpzp_18_zg.tiff",
+          "filename": "mpzp_18_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_180",
+      "wersjaId": "20180317T144200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak C” dla obszaru położonego w rejonie ulic: Rudacka, Olęderska, Rypińska i Gliniecka.",
+      "obowiazujeOd": "2018-03-17Z",
+      "gml": "https://voxly.pl/export/app/d990fc6b-742f-4736-8ac4-b47050c3d589.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/60344f9b-24d2-4c63-a713-beb3cae48573/mpzp_180_zg.tiff",
+          "filename": "mpzp_180_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_181",
+      "wersjaId": "20170420T104100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Nowe Centrum” dla terenu ograniczonego ulicami: Szosa Chełmińska, Czerwona Droga, Aleja 700- lecia Torunia, Sportowa, Morcinka i Bema.",
+      "obowiazujeOd": "2017-04-20Z",
+      "gml": "https://voxly.pl/export/app/782e5460-7e27-4a84-a1f8-281a3e2371ce.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0acf0bae-660f-4880-9fd3-a76c7b7f9a4b/mpzp_181_zg.tiff",
+          "filename": "mpzp_181_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_182",
+      "wersjaId": "20170605T104900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Łódzkiej i Zdrojowej.",
+      "obowiazujeOd": "2017-06-05Z",
+      "gml": "https://voxly.pl/export/app/9e6bd8bd-7afa-4be0-90d1-5810b1df46da.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3be2b7f1-34e9-41fb-ba2d-4dfe6834e7a8/mpzp_182_zg.tiff",
+          "filename": "mpzp_182_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_183",
+      "wersjaId": "20170930T105300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Szosa Okrężna, Gagarina i Krzemieniecka.",
+      "obowiazujeOd": "2017-09-30Z",
+      "gml": "https://voxly.pl/export/app/93ec6d4e-11e6-483e-a9c0-63997ab5b997.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4e263ec8-0da0-43f7-b227-759cab15717e/mpzp_183_zg.tiff",
+          "filename": "mpzp_183_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_184",
+      "wersjaId": "20171118T110000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy zachodniej granicy miasta u zbiegu ulicy Szosa Bydgoska i trasy średnicowej.",
+      "obowiazujeOd": "2017-11-18Z",
+      "gml": "https://voxly.pl/export/app/1040635b-d94a-4347-b082-950cbc481cfa.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/58bb49fe-d2fa-42d4-b301-bcf1a5593bb9/mpzp_184_zg.tiff",
+          "filename": "mpzp_184_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_186",
+      "wersjaId": "20171219T111400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych na południe od ulicy Szosa Bydgoska i na zachód od oczyszczalni ścieków.",
+      "obowiazujeOd": "2017-12-19Z",
+      "gml": "https://voxly.pl/export/app/532bc19a-fbf8-44b3-80ae-5d46b48e9619.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/bf654dd2-896f-4dab-9c53-5a0137970ec8/mpzp_186_zg.tiff",
+          "filename": "mpzp_186_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_187",
+      "wersjaId": "20171219T112300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy ulicą Szosa Bydgoska i ulicą Łukasiewicza.",
+      "obowiazujeOd": "2017-12-19Z",
+      "gml": "https://voxly.pl/export/app/355c58b8-2065-4451-9517-e0d6d5b879a0.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/5b5dce20-f467-4a1d-be2d-15d791278bea/mpzp_187_zg.tiff",
+          "filename": "mpzp_187_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_188",
+      "wersjaId": "20180123T113200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul. Łukasiewicza i Szosie Okrężnej.",
+      "obowiazujeOd": "2018-01-23Z",
+      "gml": "https://voxly.pl/export/app/265968ec-cc5a-4df8-b9f3-4d8c71df6137.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/da60c56f-c5b8-4816-9125-6ed930d5e4ba/mpzp_188_zg.tiff",
+          "filename": "mpzp_188_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_189",
+      "wersjaId": "20181228T113700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego uzbiegu ulic św. Józefa i św. Klemensa.",
+      "obowiazujeOd": "2018-12-28Z",
+      "gml": "https://voxly.pl/export/app/ae61c014-fecc-454d-ba10-2183092eeae8.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0dedfaad-5654-47cc-8b93-39c2d53f5192/mpzp_189_zg.tiff",
+          "filename": "mpzp_189_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_19",
+      "wersjaId": "20010811T122400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak B – Jezioro Nagus”.",
+      "obowiazujeOd": "2001-08-11Z",
+      "gml": "https://voxly.pl/export/app/6be3ab12-d504-4bd7-8b5f-8518fc5e09d9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4b8cd4aa-c4bf-4e87-8eee-144c1c990543/mpzp_19_zg.tiff",
+          "filename": "mpzp_19_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_191",
+      "wersjaId": "20180216T114700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla odcinka Trasy Średnicowej oraz terenów położonych w rejonie ulic: Chrobrego, Polnej i Wschodniej.",
+      "obowiazujeOd": "2018-02-16Z",
+      "gml": "https://voxly.pl/export/app/91eafd02-f084-4469-9b7e-672b5bd3ba49.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/732a472f-3b37-4a16-882c-827c3feffb6c/mpzp_191_zg.tiff",
+          "filename": "mpzp_191_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_192",
+      "wersjaId": "20180317T115300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Strobanda, Watzenrodego i Ugory.",
+      "obowiazujeOd": "2018-03-17Z",
+      "gml": "https://voxly.pl/export/app/fc80e71d-8865-46a8-add3-25de3ad40a2a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f62add2c-f776-497b-a4e0-c7f2171b96dc/mpzp_192_zg.tiff",
+          "filename": "mpzp_192_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_193",
+      "wersjaId": "20180412T121200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Konstytucji 3 Maja, Olimpijskiej i Kusocińskiego.",
+      "obowiazujeOd": "2018-04-12Z",
+      "gml": "https://voxly.pl/export/app/d34a5b73-deb1-4f02-af16-77aa34f7b916.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2a8eff61-5129-4347-bcfb-b2a6bb95e070/mpzp_193_zg.tiff",
+          "filename": "mpzp_193_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_194",
+      "wersjaId": "20180412T121500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Wrzosy-Przy Forcie” dla terenu położonego w rejonie ulic: Legionów, Polna, Szosa Chełmińska, Bractwa Kurkowego.",
+      "obowiazujeOd": "2018-04-12Z",
+      "gml": "https://voxly.pl/export/app/6c94a17c-d30d-438d-a1f0-f50e1755ec6c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e6cbc262-1900-4c4b-a8f9-8eb6c48de23d/mpzp_194_zg.tiff",
+          "filename": "mpzp_194_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_196",
+      "wersjaId": "20210709T122500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Jordanki” dla obszaru położonego w rejonie ulic: Wały gen. Sikorskiego, Czerwona Droga i al. św. Jana Pawła II.",
+      "obowiazujeOd": "2021-07-09Z",
+      "gml": "https://voxly.pl/export/app/39fbdb63-9b4e-4ad5-ac06-fd9f395dfc35.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/75367f93-86d4-44d8-ae3b-729a171df18e/mpzp_196_zg.tiff",
+          "filename": "mpzp_196_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_198",
+      "wersjaId": "20180928T124300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ulicy Szosa Bydgoska - „Park Handlowy”.",
+      "obowiazujeOd": "2018-09-28Z",
+      "gml": "https://voxly.pl/export/app/684bc185-53ec-45ad-a4fe-120f4949849a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c4e7064d-24d9-4852-a6f2-e0fa56aa63df/mpzp_198_zg.tiff",
+          "filename": "mpzp_198_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_199",
+      "wersjaId": "20181019T124700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Port Drzewny” dla obszaru położonego w rejonie ul.Starotoruńskiej, portu Drzewnego i Wisły.",
+      "obowiazujeOd": "2018-10-19Z",
+      "gml": "https://voxly.pl/export/app/cfb91e20-476f-4e87-ad5e-a219c3815be9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a613d726-80f8-4f38-906f-b07ddb23b6cf/mpzp_199_zg.tiff",
+          "filename": "mpzp_199_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_2",
+      "wersjaId": "19981006T103200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Podgórz”.",
+      "obowiazujeOd": "1998-10-06Z",
+      "gml": "https://voxly.pl/export/app/daad9e77-3329-483b-bbb1-c655c5197472.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8a6553c4-c943-42b6-b55a-a9da1dca9e63/mpzp_2_zg.tiff",
+          "filename": "mpzp_2_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_20",
+      "wersjaId": "20230217T071001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Stawki”.",
+      "obowiazujeOd": "2023-02-17Z",
+      "gml": "https://voxly.pl/export/app/a7274d4c-ad86-466a-8fe2-cbe9a3d5e3e1.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c12c6935-bfd3-4a38-bc2e-09f05fd41435/mpzp_20_zg_v2.tiff",
+          "filename": "mpzp_20_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_200",
+      "wersjaId": "20181019T150100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ul.Kociewskiej, Polnej, Trasy Średnicowej oraz linii kolejowej.",
+      "obowiazujeOd": "2018-10-19Z",
+      "gml": "https://voxly.pl/export/app/4faa6b43-7c2b-4c70-89da-3c7841ff26f0.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/748291df-68d5-4c02-8a02-181cac841b24/mpzp_200_zg.tiff",
+          "filename": "mpzp_200_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_201",
+      "wersjaId": "20200519T131100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Podgórskiej, Strzałowej i Stara Droga.",
+      "obowiazujeOd": "2020-05-19Z",
+      "gml": "https://voxly.pl/export/app/86d72076-f888-4678-a63e-a54c2394f417.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c3a9dc66-2004-4c56-a416-77a8b09bad05/mpzp_201_zg.tiff",
+          "filename": "mpzp_201_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_202",
+      "wersjaId": "20181110T131800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Katarzynka” dla obszaru położonego w rejonie ulicy Kociewskiej na północ od linii kolejowej nr 207 Toruń Wschodni - Malbork.",
+      "obowiazujeOd": "2018-11-10Z",
+      "gml": "https://voxly.pl/export/app/a3f1addc-5650-49a8-bf87-85b5f6c6fd05.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3611b508-2226-4d9a-a637-e37865eb3d66/mpzp_202_zg.tiff",
+          "filename": "mpzp_202_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_203",
+      "wersjaId": "20200324T132700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla części obszaru Miasteczka Uniwersyteckiego UMK w rejonie ulicy Karola Olszewskiego.",
+      "obowiazujeOd": "2020-03-24Z",
+      "gml": "https://voxly.pl/export/app/99f2bebe-1350-43c7-a722-eba822084754.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4ad552af-b549-4ff6-b27f-27000ec0c1ad/mpzp_203_zg.tiff",
+          "filename": "mpzp_203_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_206",
+      "wersjaId": "20190228T134100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego wrejonie ulic: Odległa, Przelot i Ostra.",
+      "obowiazujeOd": "2019-02-28Z",
+      "gml": "https://voxly.pl/export/app/5cc2faeb-6761-4e79-b27e-7984780ea1d4.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/146e3667-56b3-40e2-8be1-7ddea3b36fbe/mpzp_206_zg.tiff",
+          "filename": "mpzp_206_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_207",
+      "wersjaId": "20201211T134600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Okólnej, ul.Łódzkiej i ul.Zimowej.",
+      "obowiazujeOd": "2020-12-11Z",
+      "gml": "https://voxly.pl/export/app/6bdb063c-e2fc-43ca-8762-94b1aa7affa7.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/18dd96f3-2a5f-433e-a8ed-88c16abe3d92/mpzp_207_zg.tiff",
+          "filename": "mpzp_207_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_208",
+      "wersjaId": "20201212T141200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Poznańskiej i gen. Józefa Hallera.",
+      "obowiazujeOd": "2020-12-12Z",
+      "gml": "https://voxly.pl/export/app/9bca7404-6eeb-4fc9-9cf0-bc407397a274.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/334813f2-a689-4b56-a90a-f25d1cea0b40/mpzp_208_zg.tiff",
+          "filename": "mpzp_208_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_209",
+      "wersjaId": "20190502T142300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego wrejonie Urzędu Celnego i Toruńskiej Giełdy przy ulicy Towarowej.",
+      "obowiazujeOd": "2019-05-02Z",
+      "gml": "https://voxly.pl/export/app/b30fa897-a14c-4432-bdec-8568a2cb89c7.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/25756b02-d406-42a5-a804-b104cdc4ea54/mpzp_209_zg.tiff",
+          "filename": "mpzp_209_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_21",
+      "wersjaId": "20011114T123600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego miasta Torunia, dotyczący obszaru oznaczonego symbolem P 55 ZD, położonego w trójkącie ulic: Przy Grobli, Nieszawskiej i Zagrodowej.",
+      "obowiazujeOd": "2001-11-14Z",
+      "gml": "https://voxly.pl/export/app/3c4a1f34-1a28-40e5-8c56-53433b404e23.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ab6748f5-cb48-454f-9925-85fffe1822de/mpzp_21_zg.tiff",
+          "filename": "mpzp_21_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_210",
+      "wersjaId": "20201114T142900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Lubicka i Szosa Lubicka.",
+      "obowiazujeOd": "2020-11-14Z",
+      "gml": "https://voxly.pl/export/app/e3e907d9-d419-4a35-b556-b28505b7d8af.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2a7900aa-406c-4247-8aeb-a7196b4b5a2e/mpzp_210_zg.tiff",
+          "filename": "mpzp_210_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_211",
+      "wersjaId": "20190615T144100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Okólnej.",
+      "obowiazujeOd": "2019-06-15Z",
+      "gml": "https://voxly.pl/export/app/76e7d174-4fd0-4246-9c53-d156087c6ea4.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f0f74886-5a25-4a3a-9c38-9d0156d2de71/mpzp_211_zg.tiff",
+          "filename": "mpzp_211_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_212",
+      "wersjaId": "20190615T090400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego wrejonie ul.: Polnej, Batorego, Pod Dębową Górą, Wielki Rów i Kraińskiej.",
+      "obowiazujeOd": "2019-06-15Z",
+      "gml": "https://voxly.pl/export/app/4ca3054c-e8f2-4246-bdd0-88d15844d6bb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a4f80054-5b8c-4b45-89e6-0640f622ff87/mpzp_212_zg.tiff",
+          "filename": "mpzp_212_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_213",
+      "wersjaId": "20190615T092600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Konstytucji 3 Maja i ul.Przy Skarpie.",
+      "obowiazujeOd": "2019-06-15Z",
+      "gml": "https://voxly.pl/export/app/ff785c03-7da2-43da-9645-a9a2d8f9f622.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/229e7d01-f74a-499b-b5eb-23dde8d1486e/mpzp_213_zg.tiff",
+          "filename": "mpzp_213_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_216",
+      "wersjaId": "20190719T102000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Olsztyńskiej i Niesiołowskiego.",
+      "obowiazujeOd": "2019-07-19Z",
+      "gml": "https://voxly.pl/export/app/91648bfa-b880-4a6e-bc5b-a9e48b8c34e9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/23e53a34-999e-4faf-b1cf-ac97eb2a8d8f/mpzp_216_zg.tiff",
+          "filename": "mpzp_216_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_217",
+      "wersjaId": "20190719T102700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie Placu Skarbka, ul.Sobieskiego i linii kolejowej.",
+      "obowiazujeOd": "2019-07-19Z",
+      "gml": "https://voxly.pl/export/app/189d057a-1642-4715-9ec7-bc4ab0892eeb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2ca35c41-a952-4861-847e-48e7523e09b5/mpzp_217_zg.tiff",
+          "filename": "mpzp_217_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_219",
+      "wersjaId": "20191004T111100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Fantazyjnej, Międzyrzecze i rzeki Drwęcy.",
+      "obowiazujeOd": "2019-10-04Z",
+      "gml": "https://voxly.pl/export/app/883c4aac-3be2-43be-ab09-d57f159572fd.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ecfcdc6e-e5ef-4e0e-85bb-d731ab53d754/mpzp_219_zg.tiff",
+          "filename": "mpzp_219_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_22",
+      "wersjaId": "20011128T123900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Winnica II”.",
+      "obowiazujeOd": "2001-11-28Z",
+      "gml": "https://voxly.pl/export/app/7e8c3f73-02e8-4061-8822-ad6ad66c719a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f4ef219b-4a8d-4ff8-85c5-4d77608ef8fa/mpzp_22_zg.tiff",
+          "filename": "mpzp_22_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_220",
+      "wersjaId": "20191101T113900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul.Bukowej i Strudze Toruńskiej.",
+      "obowiazujeOd": "2019-11-01Z",
+      "gml": "https://voxly.pl/export/app/759e637e-1b63-4932-97b0-6c9d6ac4c3ab.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7ac701c7-a387-4bf8-ad08-0ff2fa599e6b/mpzp_220_zg.tiff",
+          "filename": "mpzp_220_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_221",
+      "wersjaId": "20191101T120900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Legionów, św. Faustyny, Lotników, Grudziądzkiej oraz „trasy średnicowej’.",
+      "obowiazujeOd": "2019-11-01Z",
+      "gml": "https://voxly.pl/export/app/091ef4f0-3f13-41e2-bc18-f243c036b39a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/5ebc65ca-28fb-4f5a-a504-f520d1d01c0b/mpzp_221_zg.tiff",
+          "filename": "mpzp_221_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_222",
+      "wersjaId": "20191101T131400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Odległa, Przelot i Ostra.",
+      "obowiazujeOd": "2019-11-01Z",
+      "gml": "https://voxly.pl/export/app/7c056e49-684f-40ad-99d3-564b3e1d3cb1.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/fb5540db-232e-46ec-a218-81e2174205cd/mpzp_222_zg.tiff",
+          "filename": "mpzp_222_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_223",
+      "wersjaId": "20191214T121700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego wrejonie ulic: Grudziądzkiej, Stalowej, Batorego i Polnej.",
+      "obowiazujeOd": "2019-12-14Z",
+      "gml": "https://voxly.pl/export/app/0bfe5762-83a9-444a-8996-ed8a66b16a6c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/74876c5f-452f-46fd-afa6-8a36dabfbd1c/mpzp_223_zg.tiff",
+          "filename": "mpzp_223_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_224",
+      "wersjaId": "20191214T124500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Bema-Gałczyńskiego”.",
+      "obowiazujeOd": "2019-12-14Z",
+      "gml": "https://voxly.pl/export/app/d94c93a9-cdbc-4658-81fd-70acf8c17e50.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d211c185-376e-42eb-9a90-53693b143567/mpzp_224_zg.tiff",
+          "filename": "mpzp_224_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_225",
+      "wersjaId": "20211111T125100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Inżynierskiej, Rolniczej i Traktorowej.",
+      "obowiazujeOd": "2021-11-11Z",
+      "gml": "https://voxly.pl/export/app/97620982-5b2d-4480-aeac-a35bf8676332.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ad07c860-e6a9-42e0-b331-9e5acbd707e7/mpzp_225_zg.tiff",
+          "filename": "mpzp_225_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_226",
+      "wersjaId": "20200108T130700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Strzałowej i Okólnej.",
+      "obowiazujeOd": "2020-01-08Z",
+      "gml": "https://voxly.pl/export/app/a1468223-219c-400e-bfe6-0c9e9401acf8.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/fc1e83dd-4097-424f-9a94-079ec0efac3d/mpzp_226_zg.tiff",
+          "filename": "mpzp_226_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_227",
+      "wersjaId": "20211022T132100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Szosa Chełmińska, Hurynowicz i św.Józefa.",
+      "obowiazujeOd": "2021-10-22Z",
+      "gml": "https://voxly.pl/export/app/80c109ef-6391-46bf-b27b-dd15bbf26258.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/1f4ed51c-0a07-4518-b9e3-04d579099992/mpzp_227_zg.tiff",
+          "filename": "mpzp_227_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_228",
+      "wersjaId": "20211022T133600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Grudziądzkiej i ul.Celniczej, w rejonie Centralnego Cmentarza Komunalnego.",
+      "obowiazujeOd": "2021-10-22Z",
+      "gml": "https://voxly.pl/export/app/5461b1f7-4fa1-4872-adcb-52b5d7c4ed8d.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/081c424b-d463-4d5c-bf3f-3e3cb494775d/mpzp_228_zg.tiff",
+          "filename": "mpzp_228_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_23",
+      "wersjaId": "20010915T124300",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: J 72a MN.",
+      "obowiazujeOd": "2001-09-15Z",
+      "gml": "https://voxly.pl/export/app/07ce1d47-3517-497e-8eb9-4d1cf9684015.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3b4d2b10-f284-4a13-8907-3da033f09d64/mpzp_23_zg.tiff",
+          "filename": "mpzp_23_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_231",
+      "wersjaId": "20200519T140400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Park Handlowy Zieleniec” dla obszaru położonego pomiędzy ulicą Broniewskiego i ulicą Szosa Bydgoska.",
+      "obowiazujeOd": "2020-05-19Z",
+      "gml": "https://voxly.pl/export/app/951e4c8b-1433-44dd-906b-3c773eae0f68.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ac8b15b7-02ca-41bb-9817-75ef5b9be009/mpzp_231_zg.tiff",
+          "filename": "mpzp_231_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_232",
+      "wersjaId": "20210511T140800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Wieża ciśnień” dla terenu położonego przy ul.Letniej.",
+      "obowiazujeOd": "2021-05-11Z",
+      "gml": "https://voxly.pl/export/app/9da28ab2-6853-4e47-b81e-3a188eb76885.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d91ea770-767c-467a-a935-29b4a180d644/mpzp_232_zg.tiff",
+          "filename": "mpzp_232_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_233",
+      "wersjaId": "20210930T142100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic: Podgórskiej i gen.Dwernickiego.",
+      "obowiazujeOd": "2021-09-30Z",
+      "gml": "https://voxly.pl/export/app/07ca0501-426a-433d-bad9-277b56217a2f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8298af76-db68-476e-ae07-30505c96371d/mpzp_233_zg.tiff",
+          "filename": "mpzp_233_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_234",
+      "wersjaId": "20200814T143100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ulic Budowlanej i Wapiennej.",
+      "obowiazujeOd": "2020-08-14Z",
+      "gml": "https://voxly.pl/export/app/d7242463-20ac-4b9a-8452-4f16007216bb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/02b72fa3-6813-42ae-9b7e-6dedfc653d0b/mpzp_234_zg.tiff",
+          "filename": "mpzp_234_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_235",
+      "wersjaId": "20200814T143600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak A” dla obszaru położonego w rejonie ulic Jana Skrzetuskiego i Pana Wołodyjowskiego.",
+      "obowiazujeOd": "2020-08-14Z",
+      "gml": "https://voxly.pl/export/app/8a2ce181-6a88-4265-b9e9-9f7b2a245dc0.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e0d6bc1b-5ff6-419c-9af8-ddf6268b4de6/mpzp_235_zg.tiff",
+          "filename": "mpzp_235_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_238",
+      "wersjaId": "20241203T113452",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie Trasy Wschodniej oraz ulic: Żółkiewskiego i Skłodowskiej-Curie.",
+      "obowiazujeOd": "2024-12-14Z",
+      "gml": "https://voxly.pl/export/app/cf304c66-2e6d-477a-ad98-ed6f609cb569.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4d10cccc-a973-4884-97e5-0939785fff5e/mpzp_238_zg.tiff",
+          "filename": "mpzp_238_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_239",
+      "wersjaId": "20210930T103100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak B” dla obszaru położonego przy ul.Rypińskiej 44-54.",
+      "obowiazujeOd": "2021-09-30Z",
+      "gml": "https://voxly.pl/export/app/74d1e672-8573-4db1-aa7c-57f3d1f290d0.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b0409d82-e69e-443f-ab71-0d9b5dde616e/mpzp_239_zg.tiff",
+          "filename": "mpzp_239_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_24",
+      "wersjaId": "20010908T124700",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 88a M.",
+      "obowiazujeOd": "2001-09-08Z",
+      "gml": "https://voxly.pl/export/app/e200fb06-0119-4c97-9815-28413cf185f5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e4290ee1-4255-42f4-bf63-d771d7c6703c/mpzp_24_zg.tiff",
+          "filename": "mpzp_24_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_240",
+      "wersjaId": "20220812T105200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Ciekawej i Gminnej.",
+      "obowiazujeOd": "2022-08-12Z",
+      "gml": "https://voxly.pl/export/app/eba29744-5781-42e1-a299-e8b5f47e25a8.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/8a6c31f5-c2a6-4ff9-8b4b-2273053c9290/mpzp_240_zg.tiff",
+          "filename": "mpzp_240_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_241",
+      "wersjaId": "20230309T130756",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: św. Jana Bosko, Szosa Chełmińska i Ugory.",
+      "obowiazujeOd": "2023-03-17Z",
+      "gml": "https://voxly.pl/export/app/a529c651-61e7-437c-867e-087f18d41072.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3da4affc-d5e3-4c35-81b1-1258acdedb44/mpzp_241_zg.tiff",
+          "filename": "mpzp_241_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_242",
+      "wersjaId": "20220112T111700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Jana Heweliusza i Edmunda Halleya.",
+      "obowiazujeOd": "2022-01-12Z",
+      "gml": "https://voxly.pl/export/app/0d40c9c7-a10c-4640-9c2b-19231a6510bd.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b4618f9c-e6c4-42f7-b222-e8db189d95d8/mpzp_242_zg.tiff",
+          "filename": "mpzp_242_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_243",
+      "wersjaId": "20221007T113900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Polskiego Czerwonego Krzyża, Lelewela i Legionów.",
+      "obowiazujeOd": "2022-10-07Z",
+      "gml": "https://voxly.pl/export/app/7850ee35-cad7-46a3-be12-19e2fb194d12.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d11e7313-1786-4584-8e23-f963f746ae4e/mpzp_243_zg.tiff",
+          "filename": "mpzp_243_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_244",
+      "wersjaId": "20221112T085200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Czereśniowej, Osikowej, Kasztanowej i Rydygiera.",
+      "obowiazujeOd": "2022-11-12Z",
+      "gml": "https://voxly.pl/export/app/8bc47942-a779-4451-a52e-4e560df8c7bb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d81604c2-b9fd-4fd4-ae95-71ba3a53ed3c/mpzp_244_zg.tiff",
+          "filename": "mpzp_244_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_245",
+      "wersjaId": "20220705T120100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Wielki Rów i Koniuchy w Toruniu.",
+      "obowiazujeOd": "2022-07-05Z",
+      "gml": "https://voxly.pl/export/app/525ad18d-219a-420a-acb4-451237ed3a77.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f286b9f2-3de1-423f-916f-b223709a2014/mpzp_245_zg.tiff",
+          "filename": "mpzp_245_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_246",
+      "wersjaId": "20230317T074000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic Konstytucji 3 Maja i Kardynała Stefana Wyszyńskiego.",
+      "obowiazujeOd": "2023-03-17Z",
+      "gml": "https://voxly.pl/export/app/f36fd383-9993-42ec-9db0-435da1697b7f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e9c68dc0-221b-4084-855a-a7100e7f96f3/mpzp_246_zg.tiff",
+          "filename": "mpzp_246_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_247",
+      "wersjaId": "20221007T122300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ulicach Ligi Polskiej i Tomasza Stawisińskiego.",
+      "obowiazujeOd": "2022-10-07Z",
+      "gml": "https://voxly.pl/export/app/ac2e9e23-d768-4c2a-996e-03cd1315d537.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/77d98d31-c1fd-4ea0-8380-ede5ae2461a3/mpzp_247_zg.tiff",
+          "filename": "mpzp_247_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_248",
+      "wersjaId": "20230317T074500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ulicach Kosynierów Kościuszkowskich i Wincentego Witosa.",
+      "obowiazujeOd": "2023-03-17Z",
+      "gml": "https://voxly.pl/export/app/bb7c7a7e-1c74-4bce-a375-484575cb0d0f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/553b35ff-a7a5-481a-8588-06a873d8bd9a/mpzp_248_zg.tiff",
+          "filename": "mpzp_248_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_249",
+      "wersjaId": "20240106T072000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic Adama Mickiewicza i Jana Matejki.",
+      "obowiazujeOd": "2024-01-06Z",
+      "gml": "https://voxly.pl/export/app/412c1f4d-f648-4855-85a9-9af06addd3a2.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4a977e2d-e302-4810-8089-86400623930f/mpzp_249_zg.tiff",
+          "filename": "mpzp_249_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_25",
+      "wersjaId": "20010915T125100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 43 MN.",
+      "obowiazujeOd": "2001-09-15Z",
+      "gml": "https://voxly.pl/export/app/30dfe568-b796-402e-a537-618c9a2d6c0d.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a7121ed6-429d-4a43-9888-757010128ef4/mpzp_25_zg.tiff",
+          "filename": "mpzp_25_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_250",
+      "wersjaId": "20241203T114253",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Szosa Chełmińska, Jana Dekerta i Leona Czarlińskiego.",
+      "obowiazujeOd": "2024-12-14Z",
+      "gml": "https://voxly.pl/export/app/7f7776bb-cc6f-4e40-931b-e5ddf3b065b5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/5721e65b-f109-4626-b834-09f0d1a7c6de/mpzp_250_zg.tiff",
+          "filename": "mpzp_250_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_251",
+      "wersjaId": "20221112T080100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak B” dla obszaru położonego w rejonie ulicy Rypińskiej i Jeziora Nagus.",
+      "obowiazujeOd": "2022-11-12Z",
+      "gml": "https://voxly.pl/export/app/6a82fbd9-1535-4d1c-8ccd-7cdeed2be967.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/68f7fa7c-e97d-4536-bbeb-ed75cc3fa1c0/mpzp_251_zg.tiff",
+          "filename": "mpzp_251_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_252",
+      "wersjaId": "20230220T071040",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu obszaru położonego ul. gen Władysława Andersa i ul. gen. Karola Kniaziewicza oraz ul.Łódzkiej i ul.Włocławskiej.",
+      "obowiazujeOd": "2023-02-17Z",
+      "gml": "https://voxly.pl/export/app/c86e0f22-ec7c-4d7e-91e5-ced65a3f76cb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/88290a49-0067-42d1-9708-bbcf094235f0/mpzp_252_zg.tif",
+          "filename": "mpzp_252_zg.tif"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_253",
+      "wersjaId": "20230714T081044",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Bumar” dla obszaru ograniczonego ulicami: Grudziądzką, Józefa Wybickiego, Wiązową i Joachima Lelewela w Toruniu.",
+      "obowiazujeOd": "2023-07-28Z",
+      "gml": "https://voxly.pl/export/app/79c6f211-bbce-451e-9002-5ef6a0ce6960.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d96f246d-765e-49fa-8353-034744ea0dcb/mpzp_253_zg.tiff",
+          "filename": "mpzp_253_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_255",
+      "wersjaId": "20240219T085617",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Grudziądzka 161-169” dla obszaru położonego pomiędzy ulicą Grudziądzką a linią kolejową w Toruniu.",
+      "obowiazujeOd": "2024-03-01Z",
+      "gml": "https://voxly.pl/export/app/11f12d80-a791-440e-be06-da64a516ac8a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/307f8a59-03c7-421b-bcf2-86bb5f1abccd/mpzp_255_zg.tiff",
+          "filename": "mpzp_255_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_256",
+      "wersjaId": "20230526T110111",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ronda dr. Tadeusza Ładniaka i ulicy Fortecznej w Toruniu.",
+      "obowiazujeOd": "2023-06-10Z",
+      "gml": "https://voxly.pl/export/app/5e9dc423-09d4-455d-a148-cb4381b8dd20.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/60c12566-e45a-4122-b484-58e6dd1f19cf/mpzp_256_zg.tiff",
+          "filename": "mpzp_256_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_257",
+      "wersjaId": "20231106T070758",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla placu Teatralnego w Toruniu.",
+      "obowiazujeOd": "2023-11-14Z",
+      "gml": "https://voxly.pl/export/app/a916a979-7f40-4f41-a1b6-f128c82edde3.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ad72c125-23b0-4bb8-ac69-cd3b345c206c/mpzp_257_zg.tiff",
+          "filename": "mpzp_257_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_258",
+      "wersjaId": "20231003T055900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla części parku Glazja i ul. Ludwika Waryńskiego w Toruniu.",
+      "obowiazujeOd": "2023-10-17Z",
+      "gml": "https://voxly.pl/export/app/36fc9622-3d45-4fba-a651-3162b9af4cde.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/91069eea-a10e-4810-8323-c476a2eaa18d/mpzp_258_zg.tiff",
+          "filename": "mpzp_258_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_26",
+      "wersjaId": "20020315T125700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Kaszczorek”.",
+      "obowiazujeOd": "2002-03-15Z",
+      "gml": "https://voxly.pl/export/app/17808b1d-4020-46d7-a42a-837939512450.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/233785c0-21ac-402e-956a-1b2aae8e2a2f/mpzp_26_zg.tiff",
+          "filename": "mpzp_26_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_260",
+      "wersjaId": "20240913T070358",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Grębocin nad Strugą” dla obszaru położonego przy ulicy Działowej w Toruniu.",
+      "obowiazujeOd": "2024-09-27Z",
+      "gml": "https://voxly.pl/export/app/fa566c82-17b1-40e8-a224-6b49add2d289.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/43f15089-2096-48c0-8fe3-7b17f318869c/mpzp_260_zg.tif",
+          "filename": "mpzp_260_zg.tif"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_262",
+      "wersjaId": "20240725T075815",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Wrzosy Leśne – Polana” dla obszaru położonego przy ulicach: Figowej, Pigwowej i Warzywnej w Toruniu.",
+      "obowiazujeOd": "2024-08-08Z",
+      "gml": "https://voxly.pl/export/app/91368fb6-7f6a-48e7-944d-886e111ad507.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2be92da4-df57-4ec9-ac6a-d5557b3cfe2f/mpzp_262_zg.tiff",
+          "filename": "mpzp_262_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_263",
+      "wersjaId": "20240913T064753",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ul. Krynickiej i ul. Słupskiej w Toruniu.",
+      "obowiazujeOd": "2024-09-27Z",
+      "gml": "https://voxly.pl/export/app/bddc8c29-6cf8-4008-b1a4-3edd14b064a2.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4404e7dd-a6f8-4b2e-ba84-d9d0276463fb/mpzp_263_zg.tif",
+          "filename": "mpzp_263_zg.tif"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_264",
+      "wersjaId": "20240725T081038",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego w rejonie ul. Kłodzkiej i ul. Sieradzkiej w Toruniu.",
+      "obowiazujeOd": "2024-08-08Z",
+      "gml": "https://voxly.pl/export/app/66f9555d-bd67-4326-ab03-b73e65f2608f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4087252b-2165-4b05-a137-b764ad3f042a/mpzp_264_zg.tiff",
+          "filename": "mpzp_264_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_265",
+      "wersjaId": "20250115T000000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Spółdzielcza” dla obszaru położonego w rejonie ulic: Żwirki i Wigury, Konfekcyjnej, Wspólnej i Legionów w Toruniu.",
+      "obowiazujeOd": "2025-01-15Z",
+      "gml": "https://voxly.pl/export/app/29bcc05a-f230-4d8f-8a7c-0c895715cd6e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/088b6de6-edac-41af-ae37-9315aa5b783b/mpzp_265_zg.tiff",
+          "filename": "mpzp_265_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_268",
+      "wersjaId": "20250509T100706",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul. Okólnej i ul. Kościelnej w Toruniu.",
+      "obowiazujeOd": "2025-05-20Z",
+      "gml": "https://voxly.pl/export/app/be6ddf7d-1266-4045-b7e6-2a6bce2709a5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/79f503bd-26a6-4867-9493-2b02b5c5f410/mpzp_268_zg.tiff",
+          "filename": "mpzp_268_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_27",
+      "wersjaId": "20020321T130600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 65 UT, P 95 UR/MN, P 101 RZ, P 104 RL - przepompownia I.",
+      "obowiazujeOd": "2002-03-21Z",
+      "gml": "https://voxly.pl/export/app/f6c7f66d-1f39-467f-a1b6-783f99a4a220.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2291bb60-512e-4ac8-9093-02518f7f4416/mpzp_27_zg.tiff",
+          "filename": "mpzp_27_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_272",
+      "wersjaId": "20260108T100101",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ulicy Podgórskiej 14A w Toruniu – schronu koszarowego tzw. hangaru wschodniego.",
+      "obowiazujeOd": "2026-01-22Z",
+      "gml": "https://voxly.pl/export/app/69e67e84-c047-481a-9b15-1e2367b47b3c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4097045c-666d-4fac-9edd-37cea027b67c/mpzp_272_zg.tiff",
+          "filename": "mpzp_272_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_273",
+      "wersjaId": "20260408T084327",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego przy ul. Myśliwskiej w Toruniu.",
+      "obowiazujeOd": "2026-04-17Z",
+      "gml": "https://voxly.pl/export/app/1a9d3067-2bba-47e3-88ff-c9a3e2a449e6.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b96cb413-bb46-40b3-8b47-c3b6517e33e8/mpzp_273_zg.tiff",
+          "filename": "mpzp_273_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_28",
+      "wersjaId": "20020330T131100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 120 ON.",
+      "obowiazujeOd": "2002-03-30Z",
+      "gml": "https://voxly.pl/export/app/911af984-7997-45eb-99ac-78aa77dec26c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/03f0456d-cc81-4d1c-b462-ed6238b00b25/mpzp_28_zg.tiff",
+          "filename": "mpzp_28_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_29",
+      "wersjaId": "20020330T131500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Osiedla „Podgórz” teren: U-8.",
+      "obowiazujeOd": "2002-03-30Z",
+      "gml": "https://voxly.pl/export/app/c782670b-2389-4bfd-9b16-ae31085630ef.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c637e00a-4b6f-4419-a1a2-64399ebfaa68/mpzp_29_zg.tiff",
+          "filename": "mpzp_29_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_3",
+      "wersjaId": "19981007T104600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Bielawy”.",
+      "obowiazujeOd": "1998-10-07Z",
+      "gml": "https://voxly.pl/export/app/a8b84972-42d6-491a-8b8e-c9cd29a7d9cd.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/25069b6f-e5b8-4914-b64c-354b987a0d5d/mpzp_3_zg.tiff",
+          "filename": "mpzp_3_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_30",
+      "wersjaId": "20020319T131800",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S-10 – południowa obwodnica.",
+      "obowiazujeOd": "2002-03-19Z",
+      "gml": "https://voxly.pl/export/app/d9825487-c159-4161-8b8c-0415da6b14ba.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f2816d1f-1998-452d-8a2c-6c99645395bb/mpzp_30_zg.tiff",
+          "filename": "mpzp_30_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_31",
+      "wersjaId": "20020629T132100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: M 31 PB (Polna-Równinna).",
+      "obowiazujeOd": "2002-06-29Z",
+      "gml": "https://voxly.pl/export/app/9fcd94be-ffdf-4e87-83a5-405784555b34.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/81afa129-0629-497a-bc3a-8d3daffb7110/mpzp_31_zg.tiff",
+          "filename": "mpzp_31_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_32",
+      "wersjaId": "20020628T132600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Łódzka – Strzałowa”.",
+      "obowiazujeOd": "2002-06-28Z",
+      "gml": "https://voxly.pl/export/app/de34bdf8-867e-417a-a187-59adce385dde.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0d3fac57-d057-4ac7-abea-75e546f4b58c/mpzp_32_zg.tiff",
+          "filename": "mpzp_32_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_33",
+      "wersjaId": "20020706T133000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 66 ZP, P 36 MN.",
+      "obowiazujeOd": "2002-07-06Z",
+      "gml": "https://voxly.pl/export/app/c9982a29-54aa-4ec9-b817-9602377355fa.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3b12ee55-25a3-446a-8f48-4841fe1622ff/mpzp_33_zg.tiff",
+          "filename": "mpzp_33_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_34",
+      "wersjaId": "20020924T134000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: J 69 RP i J 67 RP.",
+      "obowiazujeOd": "2002-09-24Z",
+      "gml": "https://voxly.pl/export/app/b8e5c019-0051-42c6-8514-791d7f110105.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/1d2d1176-33f9-481d-b7b8-a86df08ab9c5/mpzp_34_zg.tiff",
+          "filename": "mpzp_34_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_35",
+      "wersjaId": "20020924T134300",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 24 ZP.",
+      "obowiazujeOd": "2002-09-24Z",
+      "gml": "https://voxly.pl/export/app/cd1dc4a7-2786-4220-8f47-0a84ce2c139f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/89064b7d-1033-4913-8d32-a8ad545b208b/mpzp_35_zg.tiff",
+          "filename": "mpzp_35_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_36",
+      "wersjaId": "20021107T134600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 01 ZP (Koszary Racław.).",
+      "obowiazujeOd": "2002-11-07Z",
+      "gml": "https://voxly.pl/export/app/a59c926f-e1e6-4a90-98f1-59aed35ea8e6.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9fad6442-10ed-4370-b061-170dbc84c934/mpzp_36_zg.tiff",
+          "filename": "mpzp_36_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_37",
+      "wersjaId": "20030101T134900",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: J 63 PS (GPZ).",
+      "obowiazujeOd": "2003-01-01Z",
+      "gml": "https://voxly.pl/export/app/c1b684f4-9ae0-40d2-a4db-8ee6c0bef524.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9eca570c-fbdf-4d23-a90b-bbf398c01f39/mpzp_37_zg.tiff",
+          "filename": "mpzp_37_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_38",
+      "wersjaId": "20030329T140100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Rudak C – Ogrody”.",
+      "obowiazujeOd": "2003-03-29Z",
+      "gml": "https://voxly.pl/export/app/46cb0694-6a76-44b5-b488-2334eae6a30f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ff264656-2416-4fc5-bc17-f62f4b1382fb/mpzp_38_zg.tiff",
+          "filename": "mpzp_38_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_39",
+      "wersjaId": "20030919T140500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 25 PP („Zapolex”).",
+      "obowiazujeOd": "2003-09-19Z",
+      "gml": "https://voxly.pl/export/app/1812a975-16fc-4188-944f-eba9ae065072.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d71af25d-700f-4d8e-9cf9-84d08179c4c2/mpzp_39_zg.tiff",
+          "filename": "mpzp_39_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_4",
+      "wersjaId": "20230317T130801",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Ugory”.",
+      "obowiazujeOd": "2023-03-17Z",
+      "gml": "https://voxly.pl/export/app/d17cdc98-d126-4bba-abc4-d221166c4a89.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9dfd3253-e887-4a52-9fec-e401071136a3/mpzp_4_zg_v2.tiff",
+          "filename": "mpzp_4_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_40",
+      "wersjaId": "20031030T140800",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 92cRPO i P 92bMN.",
+      "obowiazujeOd": "2003-10-30Z",
+      "gml": "https://voxly.pl/export/app/b5a555cc-af2a-4bdf-9685-8d0a499ad80d.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ed9b7b23-9fcc-463f-a7b8-c28985c6f628/mpzp_40_zg.tiff",
+          "filename": "mpzp_40_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_41",
+      "wersjaId": "20031122T141100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 58 RZ, P 58aNO.",
+      "obowiazujeOd": "2003-11-22Z",
+      "gml": "https://voxly.pl/export/app/79677c4b-1830-4c54-8387-15fb272e10e2.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/40576708-d16b-4383-b28b-ba86bfe733c2/mpzp_41_zg.tiff",
+          "filename": "mpzp_41_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_42",
+      "wersjaId": "20031122T141500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego „Włocławska-Turkusowa, ... i granica miasta” obszar: 20 MJ, 20bMJ, 20cUR/MJ.",
+      "obowiazujeOd": "2003-11-22Z",
+      "gml": "https://voxly.pl/export/app/44845884-844e-41cc-8c96-f93e2e97b947.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0ccf3515-1fee-4904-9382-c67acb0c4657/mpzp_42_zg.tiff",
+          "filename": "mpzp_42_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_43",
+      "wersjaId": "20031122T141900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego „Kaszczorek”, obszar: dz. nr 235/8 (ul.Przyjaciół).",
+      "obowiazujeOd": "2003-11-22Z",
+      "gml": "https://voxly.pl/export/app/d800219b-15c3-4850-8389-ed6d41690010.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/492a217d-0a7d-4879-8039-7e5d0b063f4c/mpzp_43_zg.tiff",
+          "filename": "mpzp_43_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_44",
+      "wersjaId": "20040228T142200",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 21 ON, S 21a,b OUK, S 21cMN (ul.Gregorkiewicza).",
+      "obowiazujeOd": "2004-02-28Z",
+      "gml": "https://voxly.pl/export/app/ed2847c8-ef95-4b74-a925-6fa5291aabdf.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/1e57e0a7-fcc4-4b6e-8fdd-a2883699f047/mpzp_44_zg.tiff",
+          "filename": "mpzp_44_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_45",
+      "wersjaId": "20040228T142600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: ul.Włocławska - cmentarz.",
+      "obowiazujeOd": "2004-02-28Z",
+      "gml": "https://voxly.pl/export/app/b884eb2b-b59c-4f17-82dd-4de768083a66.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/445b6fe6-e72d-47f3-856f-747647e1dad8/mpzp_45_zg.tiff",
+          "filename": "mpzp_45_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_46",
+      "wersjaId": "20040316T143000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: P 38 KU, P 39 ZP (ul.Poznańska).",
+      "obowiazujeOd": "2004-03-16Z",
+      "gml": "https://voxly.pl/export/app/6e928559-65a3-4cc2-9290-7b8d02ce4bb6.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/91d1c627-55fe-49e4-987f-d346c1246339/mpzp_46_zg.tiff",
+          "filename": "mpzp_46_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_47",
+      "wersjaId": "20230317T130801",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Os.„Ugory” teren: A1OUK, A4OUP, C1NO, ....",
+      "obowiazujeOd": "2023-03-17Z",
+      "gml": "https://voxly.pl/export/app/90700902-c5a4-4c4f-bf33-ac9e797b0a5c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9e4fcbef-3f64-4035-865f-9b23bb9c7413/mpzp_47_zg_v2.tiff",
+          "filename": "mpzp_47_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_49",
+      "wersjaId": "20040731T144600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: Z 05PP/U, Z 06 U, Z 07U/R, Z 09aU, Z 35aKL/U („Polchem“– „Merinotex“-lotnisko).",
+      "obowiazujeOd": "2004-07-31Z",
+      "gml": "https://voxly.pl/export/app/593f70be-e8d7-43a8-97fd-1a321b491fa3.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/4c2261b7-cf13-43f5-a5dc-baed00073445/mpzp_49_zg.tiff",
+          "filename": "mpzp_49_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_5",
+      "wersjaId": "19980909T105800",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: C 54 ZC.",
+      "obowiazujeOd": "1998-09-09Z",
+      "gml": "https://voxly.pl/export/app/49faa932-6744-4e86-b48a-ab616065cf81.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/10b95a1f-1d03-4d01-890a-991855145c90/mpzp_5_zg.tiff",
+          "filename": "mpzp_5_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_50",
+      "wersjaId": "20040303T145100",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: O 11bKK, O 11cKK i P65aU (Dworzec Gł.).",
+      "obowiazujeOd": "2004-03-03Z",
+      "gml": "https://voxly.pl/export/app/d71b3967-0927-4d85-97c5-57c7a39bda2e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/704101d0-069e-4407-9312-cdfee8e76c8e/mpzp_50_zg.tiff",
+          "filename": "mpzp_50_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_51",
+      "wersjaId": "20040320T081300",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: Sz.Chełmińska 178a, Harcerska i linia kolejowa.",
+      "obowiazujeOd": "2004-03-20Z",
+      "gml": "https://voxly.pl/export/app/7a7bf7ba-0d03-48d1-ade2-925c31ef402e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a2cfd847-3613-44a1-8f13-e31397c305ca/mpzp_51_zg.tiff",
+          "filename": "mpzp_51_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_52",
+      "wersjaId": "20040320T081600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: ograniczony Małą Wisłą, proj. trasą nowomostową, terenami budown. mieszk. przy ul.Strzałowej i linią kolejową (położony przy ul.Podgórskiej).",
+      "obowiazujeOd": "2004-03-20Z",
+      "gml": "https://voxly.pl/export/app/b602f9f1-80ee-4c03-b8f1-cd979d414649.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/51199825-21b1-4245-afcf-6e124daa740f/mpzp_52_zg.tiff",
+          "filename": "mpzp_52_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_53",
+      "wersjaId": "20040821T082000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru położonego wzdłuż torów kolejowych i ul.Nieszawskiej, między Pl.Armii Krajowej i granica miasta.",
+      "obowiazujeOd": "2004-08-21Z",
+      "gml": "https://voxly.pl/export/app/a0abec2a-da90-4630-a0a1-8ca7e65a6477.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d751cea7-eb09-4fa3-a094-503f8a616653/mpzp_53_zg.tiff",
+          "filename": "mpzp_53_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_54",
+      "wersjaId": "20040909T082800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego miasta Torunia, dla terenu położonego przy ul.Polnej 8.",
+      "obowiazujeOd": "2004-09-09Z",
+      "gml": "https://voxly.pl/export/app/687ff2b1-972c-42f9-b78f-2e9df2c46967.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/bca34f27-c882-43fb-8338-38248ccd5f7e/mpzp_54_zg.tiff",
+          "filename": "mpzp_54_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_55",
+      "wersjaId": "20040903T084100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru położonego u zbiegu ulic: Legionów i Inżynierskiej.",
+      "obowiazujeOd": "2004-09-03Z",
+      "gml": "https://voxly.pl/export/app/ffd0bffd-c751-44a3-9a33-27946ee5a02b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9006dda9-6091-4ddf-ba63-be2bf6d4f90b/mpzp_55_zg.tiff",
+          "filename": "mpzp_55_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_57",
+      "wersjaId": "20050218T085000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej – „trasy średnicowej”, na odcinku od ul.Batorego do ul.Grudziądzkiej oraz części terenów przyległych.",
+      "obowiazujeOd": "2005-02-18Z",
+      "gml": "https://voxly.pl/export/app/6e52c518-2adb-4985-bd56-fe13237f64de.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a7bdf634-8144-47c7-b9cb-827ae2473d02/mpzp_57_zg.tiff",
+          "filename": "mpzp_57_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_58",
+      "wersjaId": "20050324T085600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Okólnej.",
+      "obowiazujeOd": "2005-03-24Z",
+      "gml": "https://voxly.pl/export/app/13faddf8-c5ef-4616-b37f-b7d87e459eb6.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/be509455-62b7-4514-a46a-82a288787fa3/mpzp_58_zg.tiff",
+          "filename": "mpzp_58_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_59",
+      "wersjaId": "20050620T090400",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego os. „Podgórz” dla terenu położonego przy ul.: Zdrójkowskiego, Swinarskiego i Burhardta.",
+      "obowiazujeOd": "2005-06-20Z",
+      "gml": "https://voxly.pl/export/app/b27b2e3a-91b7-4a8b-b253-9a50df7e3a2f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b9c36649-5bdf-4816-a6f8-a2932427276d/mpzp_59_zg.tiff",
+          "filename": "mpzp_59_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_60",
+      "wersjaId": "20050729T091900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego terenu dawnego miasteczka garnizonowego, położonego w rejonie ul.:Okólnej i Armii Ludowej.",
+      "obowiazujeOd": "2005-07-29Z",
+      "gml": "https://voxly.pl/export/app/3071acb4-329d-40ed-a2e8-a8125fd9dead.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/08a18e6b-4450-403c-b993-cf0a2e42670c/mpzp_60_zg.tiff",
+          "filename": "mpzp_60_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_61",
+      "wersjaId": "20050827T092500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego osiedla „Łódzka- Strzałowa”, dla terenu położonego przy ul.Artyleryjskiej i ul.Husarskiej.",
+      "obowiazujeOd": "2005-08-27Z",
+      "gml": "https://voxly.pl/export/app/6d68f03d-d656-413b-bca3-a34d1c0f34d9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/689c2b8a-dc1a-46f7-a2e3-11ff1e043246/mpzp_61_zg.tiff",
+          "filename": "mpzp_61_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_62",
+      "wersjaId": "20050827T092900",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego osiedla „Kaszczorek” dla terenu położonego przy ul.Na Przełaj.",
+      "obowiazujeOd": "2005-08-27Z",
+      "gml": "https://voxly.pl/export/app/12fce8a1-da61-47f8-8490-b320aafd350f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/0fa41ca0-fab5-4794-9e7f-34162b05ca84/mpzp_62_zg.tiff",
+          "filename": "mpzp_62_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_63",
+      "wersjaId": "20051119T093400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu obejmującego ulice Olimpijską i Trakt Leśny, na odcinku od ul.Szosa Lubicka do granicy administracyjnej miasta.",
+      "obowiazujeOd": "2005-11-19Z",
+      "gml": "https://voxly.pl/export/app/1ae291c5-ac77-4611-b5fe-58e2c69f3d17.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/f9007f04-a81c-4a04-9779-97013b3ffd89/mpzp_63_zg.tiff",
+          "filename": "mpzp_63_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_64",
+      "wersjaId": "20051129T093800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej – „trasy średnicowej”, na odcinku od ul.Wierzbowej do ul.M.Skłodowskiej-Curie oraz części terenów przyległych.",
+      "obowiazujeOd": "2005-11-29Z",
+      "gml": "https://voxly.pl/export/app/4a25dc9b-3b69-48e1-8514-ad5b23c06171.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9428e85a-9396-44fe-b301-fb5291127fbd/mpzp_64_zg.tiff",
+          "filename": "mpzp_64_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_65",
+      "wersjaId": "20051129T094100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej – „trasy średnicowej”, na odcinku od ul.M.Skłodowskiej-Curie do ul.Batorego oraz części terenów przyległych.",
+      "obowiazujeOd": "2005-11-29Z",
+      "gml": "https://voxly.pl/export/app/4a2b8bda-1033-4580-a7b3-5b5fbb92a02c.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/75de926d-6ab7-4fa4-a9df-1180978ae9e7/mpzp_65_zg.tiff",
+          "filename": "mpzp_65_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_66",
+      "wersjaId": "20060114T102500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego osiedla „Pod Dębową Górą”, dla terenu położonego pomiędzy ulicami: Pod Dębową Górą, Chrobrego i Polną.",
+      "obowiazujeOd": "2006-01-14Z",
+      "gml": "https://voxly.pl/export/app/67cc8b84-2e46-44bc-b7ce-d59769addaa9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/528284aa-5e07-4d57-88b7-c0a89c7b89e1/mpzp_66_zg.tiff",
+          "filename": "mpzp_66_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_67",
+      "wersjaId": "20060408T103600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Towarowej.",
+      "obowiazujeOd": "2006-04-08Z",
+      "gml": "https://voxly.pl/export/app/cb16e847-866d-402e-9195-686e7c17205f.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/9f4d8042-7cf8-45c6-8567-cbc94a42597c/mpzp_67_zg.tiff",
+          "filename": "mpzp_67_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_68",
+      "wersjaId": "20060406T104000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego pomiędzy ulicami: Szosą Chełmińską, Jaskółczą i Słowiczą.",
+      "obowiazujeOd": "2006-04-06Z",
+      "gml": "https://voxly.pl/export/app/cdc276f7-c866-45e9-acb2-299a5386d9c3.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7f96f1af-e6d5-40e8-88be-2ccbc9e341bf/mpzp_68_zg.tiff",
+          "filename": "mpzp_68_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_69",
+      "wersjaId": "20060406T104400",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego dla obszaru oznaczonego symbolem P92aNO oraz części obszarów ozn. symbolami: P90RL, P91RL, P92RPO i P123KZo1/2, położonych wzdłuż ul.Rudackiej” - dotyczącej części działki nr geodez. 18/3, położonej przy ul.Rudackiej 39.",
+      "obowiazujeOd": "2006-04-06Z",
+      "gml": "https://voxly.pl/export/app/84e03e56-8648-4704-be70-7e260f7ffb02.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/eb235f85-c996-4412-9f08-6dcc32e00ff6/mpzp_69_zg.tiff",
+          "filename": "mpzp_69_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_7",
+      "wersjaId": "19990706T110900",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego „Pod Dębową Górą” obszar: 6 M (część zakreślona).",
+      "obowiazujeOd": "1999-07-06Z",
+      "gml": "https://voxly.pl/export/app/5613a431-c584-41b9-8331-e6cf94eed972.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/7318ad26-8f92-4232-a6bf-8a512a21de96/mpzp_7_zg.tiff",
+          "filename": "mpzp_7_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_70",
+      "wersjaId": "20060714T104800",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Os. „Podgórz”, dotycząca ul.Jasnej oraz terenów położonych przy ul.Armii Ludowej, Prufferów i Poznańskiej.",
+      "obowiazujeOd": "2006-07-14Z",
+      "gml": "https://voxly.pl/export/app/b3e21098-5718-41fa-90bd-28d1a13f1de2.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/cb9d0428-8c62-46aa-9895-c15f17c45590/mpzp_70_zg.tiff",
+          "filename": "mpzp_70_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_71",
+      "wersjaId": "20061021T105200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej - „trasy średnicowej”, na odcinku od ul.Grudziądzkiej do ul.Szosa Chełmińska oraz części terenów przyległych.",
+      "obowiazujeOd": "2006-10-21Z",
+      "gml": "https://voxly.pl/export/app/da3cd618-03cf-4168-83ba-9536e139f88b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/dbb4bb74-cae7-49c9-a9b0-acfaae3a9d18/mpzp_71_zg.tiff",
+          "filename": "mpzp_71_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_72",
+      "wersjaId": "20061210T110200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej - „trasy średnicowej”, na odcinku od ul.Szosa Chełmińska do ul.Kaszubskiej oraz części terenów przyległych.",
+      "obowiazujeOd": "2006-12-10Z",
+      "gml": "https://voxly.pl/export/app/779b293a-163a-4511-aa1d-6739d656eb7e.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/671e1b76-8367-4929-9b58-a8bdd7cc9ce6/mpzp_72_zg.tiff",
+          "filename": "mpzp_72_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_73",
+      "wersjaId": "20061230T111400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Lubicka, Szosa Lubicka, Antczaka i Winnica.",
+      "obowiazujeOd": "2006-12-30Z",
+      "gml": "https://voxly.pl/export/app/6290974c-f9aa-4259-ba1e-c95b19b82c81.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/cea84063-5351-4cce-b880-1f056d9c6277/mpzp_73_zg.tiff",
+          "filename": "mpzp_73_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_74",
+      "wersjaId": "20070319T120900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu obejmującego fragmenty ulic: Szosy Lubickiej, Olsztyńskiej oraz projektowanego przedłużenia ulicy Olimpijskiej do ul.M.Skłodowskiej-Curie.",
+      "obowiazujeOd": "2007-03-19Z",
+      "gml": "https://voxly.pl/export/app/8955f2d5-c9ff-4d82-8ea3-cc54d09d86b9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/57bd052c-29ec-4659-9f68-77ac73ed71cf/mpzp_74_zg.tiff",
+          "filename": "mpzp_74_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_75",
+      "wersjaId": "20070419T121200",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego os. „Podgórz”, dotycząca ul.Jasnej oraz terenów położonych przy ul.Armii Ludowej, Prufferów i Poznańskiej.",
+      "obowiazujeOd": "2007-04-19Z",
+      "gml": "https://voxly.pl/export/app/50ae5800-c9de-4d62-b63b-dc1976ef6503.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/a1ad5997-4dfd-457c-8bcd-ee371b0dd343/mpzp_75_zg.tiff",
+          "filename": "mpzp_75_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_76",
+      "wersjaId": "20070505T121600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Grudziądzkiej, Polnej i Ugory.",
+      "obowiazujeOd": "2007-05-05Z",
+      "gml": "https://voxly.pl/export/app/7e398ef8-cfc1-42df-8cc4-3213a30abef5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/11c6c9e5-caf1-459c-8a64-0acbbdfb5c12/mpzp_76_zg.tiff",
+          "filename": "mpzp_76_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_77",
+      "wersjaId": "20070727T122100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych w rejonie ulic: Balonowej, Bema, Szosie Chełmińskiej.",
+      "obowiazujeOd": "2007-07-27Z",
+      "gml": "https://voxly.pl/export/app/4c387eff-d998-4f71-95a9-aa742738a61b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3b3b8ed7-94e3-49b9-b83c-37759ef620a2/mpzp_77_zg.tiff",
+          "filename": "mpzp_77_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_78",
+      "wersjaId": "20070924T123000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla odcinka ulicy Szosa Chełmińska, pomiędzy ul.Wodociągową a ul.Polną.",
+      "obowiazujeOd": "2007-09-24Z",
+      "gml": "https://voxly.pl/export/app/7bdc5b8f-1788-466d-95fd-7a64207a82bc.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/77cd5af8-c665-4e44-b833-da347a2317e1/mpzp_78_zg.tiff",
+          "filename": "mpzp_78_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_79",
+      "wersjaId": "20070929T123400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla odcinków ulicy Szosa Chełmińska, pomiędzy: ul.Polną a ul.Słowiczą oraz ul.Wiklinową a granicą administr. miasta.",
+      "obowiazujeOd": "2007-09-29Z",
+      "gml": "https://voxly.pl/export/app/81d5d1a8-879f-4254-b50c-cece4821c30a.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/13b00baa-ab1c-42b7-96c0-c6d2ec163056/mpzp_79_zg.tiff",
+          "filename": "mpzp_79_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_8",
+      "wersjaId": "19991027T112400",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Miasta Torunia obszar: S 29a MW.",
+      "obowiazujeOd": "1999-10-27Z",
+      "gml": "https://voxly.pl/export/app/db30d94d-f6fe-4f27-93a6-31619afebaf4.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/bb8a50a5-3ca7-485d-a64e-5c635e4e408a/mpzp_8_zg.tiff",
+          "filename": "mpzp_8_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_80",
+      "wersjaId": "20240301T085601",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ulic: Grudziądzkiej, Wielki Rów, Legionów oraz linii kolejowej Toruń Wschód - Toruń Północ.",
+      "obowiazujeOd": "2024-03-01Z",
+      "gml": "https://voxly.pl/export/app/5644fdc4-5a22-4e4b-86c8-78163e3c6cd5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d493b99a-9ff7-4d07-8418-7be85e335836/mpzp_80_zg_v2.tiff",
+          "filename": "mpzp_80_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_81",
+      "wersjaId": "20071011T124200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ul.M.Skłodowskiej-Curie z przyległymi terenami od strony północnej, proj. trasą średnicową, osiedlem mieszk. Rubinkowo, ul.Olsztyńską i projektowanym przedłużeniem ul.Olimpijskiej.",
+      "obowiazujeOd": "2007-10-11Z",
+      "gml": "https://voxly.pl/export/app/edb5b8c7-520d-4d9d-ba03-0aefe274b133.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2a9a985c-0249-4081-b10a-172212b58b74/mpzp_81_zg.tiff",
+          "filename": "mpzp_81_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_82",
+      "wersjaId": "20071105T124700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych pomiędzy torem kolejowym, ul.Rypińską, linią lasu i ul.Włocławską.",
+      "obowiazujeOd": "2007-11-05Z",
+      "gml": "https://voxly.pl/export/app/d4ec5eb6-6101-46d3-b1d8-b9d04256b1e5.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b7b59356-030e-4a43-a722-294cc2f7089f/mpzp_82_zg.tiff",
+          "filename": "mpzp_82_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_83",
+      "wersjaId": "20071110T125300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla odcinka ulicy Szosa Lubicka (od ul.Winnej do ul.Przy Skarpie) i terenów przyległych oraz dla ulicy Działowskiego (od ul.Szosa Lubicka do trasy średnicowej).",
+      "obowiazujeOd": "2007-11-10Z",
+      "gml": "https://voxly.pl/export/app/a557a815-c5f7-4c1c-9827-9bdfe8e15eb7.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/834cd881-ede1-41a1-9de5-71e1185fbc90/mpzp_83_zg.tiff",
+          "filename": "mpzp_83_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_84",
+      "wersjaId": "20071123T130000",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego os. „Podgórz”, dla terenów położonych przy ul.: Paderewskiego, Drzymały i Hallera.",
+      "obowiazujeOd": "2007-11-23Z",
+      "gml": "https://voxly.pl/export/app/e1e34515-df35-4dd2-8620-3072110ba427.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/71fa4fd2-256e-4611-9f47-a23200f43d1d/mpzp_84_zg.tiff",
+          "filename": "mpzp_84_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_85",
+      "wersjaId": "20080208T130300",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego pomiędzy ulicami: Grudziądzką, Wielki Rów i Pod Dębową Górą.",
+      "obowiazujeOd": "2008-02-08Z",
+      "gml": "https://voxly.pl/export/app/4efb692e-ff71-4175-8b4d-52e1c843c6cb.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b4ebe8ac-2a71-4057-acce-4cccbb914cac/mpzp_85_zg.tiff",
+          "filename": "mpzp_85_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_86",
+      "wersjaId": "20080324T131000",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu „Łódzka - Przy Torze”.",
+      "obowiazujeOd": "2008-03-24Z",
+      "gml": "https://voxly.pl/export/app/4eb81def-db7f-4a39-bab4-cd2bb0eaf9f7.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/de6b553a-f952-4b29-8e50-0cc60c8fe11d/mpzp_86_zg.tiff",
+          "filename": "mpzp_86_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_87",
+      "wersjaId": "20080403T131700",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Szosa Lubicka i ul.Przy Skarpie.",
+      "obowiazujeOd": "2008-04-03Z",
+      "gml": "https://voxly.pl/export/app/4c396e70-0e3d-4252-a802-b84dc38dc192.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/5a557a66-a3db-4f8d-8373-137a3ef26459/mpzp_87_zg.tiff",
+          "filename": "mpzp_87_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_88",
+      "wersjaId": "20080310T132600",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego Osiedla Podgórz, dla terenów położonych przy ul.Okólnej i Armii Ludowej.",
+      "obowiazujeOd": "2008-03-10Z",
+      "gml": "https://voxly.pl/export/app/3f6f5553-5e70-4c10-b8a2-f8f3d9681a45.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/940b6b48-c40a-403e-a78f-d1535fd3c832/mpzp_88_zg.tiff",
+          "filename": "mpzp_88_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_89",
+      "wersjaId": "20080331T133100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru położonego w rejonie ulic Broniewskiego i Szosa Okrężna.",
+      "obowiazujeOd": "2008-03-31Z",
+      "gml": "https://voxly.pl/export/app/335910c1-6580-4f5e-b79c-da229abf8317.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/00dffcf4-5629-41b3-8d5c-39aa3967f7bf/mpzp_89_zg.tiff",
+          "filename": "mpzp_89_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_9",
+      "wersjaId": "19991009T112600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego miasta Torunia, dotyczący części obszarów - oznaczonych symbolami P55ZD, P57RL, P58RZ, O01W, S84RZ, S85ZD, S86MW, S82ZP.",
+      "obowiazujeOd": "1999-10-09Z",
+      "gml": "https://voxly.pl/export/app/dd55e676-8b83-498e-8fc4-391e096fb175.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6656843c-7e00-4dbd-88de-410783567d39/mpzp_9_zg.tiff",
+          "filename": "mpzp_9_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_90",
+      "wersjaId": "20080406T134600",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla drogi głównej - „trasy średnicowej”, na odcinku od ul.Szosa Okrężna do ul.Szosa Bydgoska oraz terenów przyległych.",
+      "obowiazujeOd": "2008-04-06Z",
+      "gml": "https://voxly.pl/export/app/2ca96818-68c2-4e92-8cdd-eaa3e1a82c73.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/b1981496-640e-4d11-817e-f5233d630609/mpzp_90_zg.tiff",
+          "filename": "mpzp_90_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_91",
+      "wersjaId": "20080705T135400",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla obszaru położonego pomiędzy ul.Łódzką, ul.Zimową oraz ul.Strzałową i ul.Dwernickiego wraz z terenami przyległymi.",
+      "obowiazujeOd": "2008-07-05Z",
+      "gml": "https://voxly.pl/export/app/2d998dff-8997-407e-a02e-90054a251800.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/6328b685-a7cf-4256-9c51-2d1e8229b7a5/mpzp_91_zg.tiff",
+          "filename": "mpzp_91_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_92",
+      "wersjaId": "20080925T101900",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.Łódzkiej, ul.Strzałowej i ul.Gen. Komorowskiego-Bora (miejscowego planu zagospodarowania przestrzennego osiedla Łódzka-Strzałowa).",
+      "obowiazujeOd": "2008-09-25Z",
+      "gml": "https://voxly.pl/export/app/b7872a42-b02c-45d1-b0f1-c77fbec83e93.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/3e3b7320-ce92-4655-befd-543ba00a7fe6/mpzp_92_zg.tiff",
+          "filename": "mpzp_92_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_93",
+      "wersjaId": "20081011T102100",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego przy ul.: Polnej, Batorego, Mazowieckiej i Iwanowa.",
+      "obowiazujeOd": "2008-10-11Z",
+      "gml": "https://voxly.pl/export/app/a56997f8-769d-48d3-9ecc-63e98231543b.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/e4eededc-f8c8-4e1f-a32c-a30bb31d2b82/mpzp_93_zg.tiff",
+          "filename": "mpzp_93_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_94",
+      "wersjaId": "20240927T000001",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego obszaru „Grębocin Nad Strugą - B”.",
+      "obowiazujeOd": "2024-09-27Z",
+      "gml": "https://voxly.pl/export/app/703ac797-0f48-40d4-8ae6-c2f16a19e6ab.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/ab6d092f-70b0-459a-9529-3477ada1c1ef/mpzp_94_zg_v2.tiff",
+          "filename": "mpzp_94_zg_v2.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_95",
+      "wersjaId": "20081228T102500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych wzdłuż ul. Szosa Bydgoska i przy zachodniej granicy miasta.",
+      "obowiazujeOd": "2008-12-28Z",
+      "gml": "https://voxly.pl/export/app/85ff4a4a-ad75-4b9c-a40d-5a5d70503f03.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c6f58e21-9ead-434a-b455-c51e2f9d24bc/mpzp_95_zg.tiff",
+          "filename": "mpzp_95_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_96",
+      "wersjaId": "20090404T103500",
+      "tytul": "Zmiana miejscowego planu zagospodarowania przestrzennego dla drogi głównej - „trasy średnicowej”, na odcinku od ul.Grudziądzkiej do ul.Szosa Chełmińska, obejmującej odcinek trasy średnicowej oraz część terenów przyległych od strony połudn.",
+      "obowiazujeOd": "2009-04-04Z",
+      "gml": "https://voxly.pl/export/app/463e3500-c83b-4dfc-80b2-2d696cda0a14.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/2277c6b9-6e0f-4760-84d8-83aa98e33214/mpzp_96_zg.tiff",
+          "filename": "mpzp_96_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_97",
+      "wersjaId": "20090501T103800",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul. Poznańskiej i Prüfferów oraz ul. Armii Ludowej i Gen. W. Andersa.",
+      "obowiazujeOd": "2009-05-01Z",
+      "gml": "https://voxly.pl/export/app/ac4bec95-af31-4a7c-a385-72fc6fd47bc9.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c4eb924d-11ee-47da-ba3a-b086028c27c2/mpzp_97_zg_2.tiff",
+          "filename": "mpzp_97_zg_2.tiff"
+        },
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/c4dd9694-1e57-48f1-9632-63ee72d5e6c9/mpzp_97_zg_1.tiff",
+          "filename": "mpzp_97_zg_1.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_98",
+      "wersjaId": "20090729T104200",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenów położonych przy ul.Szosa Bydgoska 13-19.",
+      "obowiazujeOd": "2009-07-29Z",
+      "gml": "https://voxly.pl/export/app/69e3bcf7-1f4f-408b-9341-47dba1be5064.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/d069e84e-1b15-4d10-963f-84b559154460/mpzp_98_zg.tiff",
+          "filename": "mpzp_98_zg.tiff"
+        }
+      ]
+    },
+    {
+      "lokalnyId": "mpzp_99",
+      "wersjaId": "20090928T104500",
+      "tytul": "Miejscowy plan zagospodarowania przestrzennego dla terenu położonego w rejonie ul.Rudackiej, ul.Glinieckiej, ul.Rypińskiej oraz ul.Otłoczyńskiej.",
+      "obowiazujeOd": "2009-09-28Z",
+      "gml": "https://voxly.pl/export/app/cb49912c-0c08-4f96-a94a-849d9b0ac857.gml",
+      "rasters": [
+        {
+          "url": "https://voxly.pl/f/85a3b8ca-53d0-40db-a1f0-b189cb669f88/raster/00421c05-18b9-45f0-9a85-23f9eed3e7ec/mpzp_99_zg.tiff",
+          "filename": "mpzp_99_zg.tiff"
+        }
+      ]
+    }
+  ]
+}
