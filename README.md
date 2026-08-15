@@ -109,9 +109,34 @@ Published objects: `mpzp.tif` and `manifest.json`.
 
 ### Bucket configuration
 
-Reading a COG from a browser means ranged cross-origin GETs, so the bucket needs
-CORS allowing your site's origin, `GET`/`HEAD`, the `Range` request header, and
-`Content-Range`/`Content-Length`/`Accept-Ranges` exposed. Serve it through a
-public r2.dev URL or a custom domain.
+Reading a COG from a browser means ranged cross-origin GETs, so the bucket needs a
+CORS policy. `r2-cors.json` holds it; apply it either by pasting into
+**R2 → bucket → Settings → CORS Policy**, or with:
+
+```sh
+wrangler r2 bucket cors set "$R2_BUCKET" --file r2-cors.json
+
+# or via the S3 API, which nests the same rules under CORSRules
+aws s3api put-bucket-cors --bucket "$R2_BUCKET" \
+  --endpoint-url "https://$R2_ACCOUNT_ID.r2.cloudflarestorage.com" \
+  --cors-configuration "$(jq '{CORSRules: .}' r2-cors.json)"
+```
+
+Why each part matters:
+
+- **`range` in `AllowedHeaders`** is the whole point. `Range` is not a
+  CORS-safelisted request header, so a ranged GET triggers a preflight `OPTIONS`;
+  without this every read fails before it starts. A COG that is not read by range
+  is just a large download.
+- **`Content-Range` and `Accept-Ranges` in `ExposeHeaders`** — neither is a
+  safelisted *response* header, so without this the browser fetches the bytes and
+  then hides the headers the reader needs to make sense of them. `Content-Length`
+  and `Last-Modified` are already safelisted; they are listed only for clarity.
+- **`ETag`** lets the reader revalidate cheaply across sessions.
+- Origins must match scheme, host **and** port exactly. `localhost` and
+  `127.0.0.1` are different origins, which is why both are listed.
+
+Add whatever origin you actually serve from and drop the rest. Then make the
+bucket readable, either via its `r2.dev` URL or a custom domain.
 
 [eziudp]: https://integracja.gugik.gov.pl/eziudp/
