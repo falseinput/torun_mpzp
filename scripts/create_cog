@@ -3,17 +3,17 @@ set -e
 
 if [ "$#" -lt 2 ] || [ "$#" -gt 3 ]; then
   echo "Usage: $0 <input_dir> <output_dir> [max_zoom]"
-  echo "  max_zoom: Web Mercator zoom level the output grid is snapped to (default 19)"
-  echo "            20 = 0.149 m/px (3857) = 0.090 m/px on the ground at Torun (~8 GB city-wide)"
-  echo "            19 = 0.299 m/px (3857) = 0.180 m/px on the ground at Torun (~2 GB city-wide)"
-  echo "            18 = 0.597 m/px (3857) = 0.359 m/px on the ground at Torun (~0.5 GB city-wide)"
+  echo "  max_zoom: Web Mercator zoom level the output grid is snapped to (default 18)"
+  echo "            20 = 0.149 m/px (3857) = 0.090 m/px on the ground at Torun (~10.5 GB city-wide)"
+  echo "            19 = 0.299 m/px (3857) = 0.180 m/px on the ground at Torun (~2.6 GB city-wide)"
+  echo "            18 = 0.597 m/px (3857) = 0.359 m/px on the ground at Torun (~0.7 GB city-wide)"
   exit 1
 fi
 
 INPUT_DIR="$(realpath "$1")"
 mkdir -p "$2"
 OUTPUT_DIR="$(realpath "$2")"
-ZOOM="${3:-19}"
+ZOOM="${3:-18}"
 VRT="$OUTPUT_DIR/merged.vrt"
 REPROJECTED="$OUTPUT_DIR/reprojected.tiff"
 OUTPUT_COG="$OUTPUT_DIR/output_cog.tiff"

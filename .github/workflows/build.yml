@@ -6,7 +6,7 @@ on:
       zoom:
         description: "Web Mercator zoom to snap the mosaic to (18/19/20)"
         required: false
-        default: "19"
+        default: "18"
       force_rebuild:
         description: "Rebuild even if the city has published no changes"
         type: boolean
@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 300
     env:
-      ZOOM: ${{ github.event.inputs.zoom || '19' }}
+      ZOOM: ${{ github.event.inputs.zoom || '18' }}
       INPUT_DIR: data/input
       OUTPUT_DIR: data/output
 

@@ -45,7 +45,7 @@ Run it locally:
 ```sh
 python3 scripts/fetch_manifest.py -o manifest.json
 python3 scripts/download_sources.py -m manifest.json -o data/input
-./scripts/create_cog data/input data/output 19
+./scripts/create_cog data/input data/output 18
 ```
 
 `manifest.json` is committed. `git diff manifest.json` after a run is the
@@ -62,16 +62,23 @@ resample. Source sheets range from **0.0999 to 1.6952 m/px** — a 17× spread.
 | 19   | 0.2986    | 0.1797               | 104,226 × 62,146  | ~2.6 GB  | ~80 min |
 | 20   | 0.1493    | 0.0898               | 208,452 × 124,292 | ~10.5 GB | ~5 h |
 
-**z19 is the default.** Area-weighted, only ~4% of plan coverage was scanned finer
-than 0.10 m/px, and most sheets sit at 0.17–0.25 m/px, so z19 is at or near native
-for the bulk of the data. z20 is not practical here: ~10.5 GB will not fit on a
-GitHub runner alongside its inputs and intermediate, and it is an unreasonable
-object to hand a browser.
+**z18 is the default**, chosen for build time rather than for image quality. A
+z19 attempt was killed by the job timeout after 294 minutes of warping, so the
+default is the level that reliably finishes; z18 is roughly a quarter of the
+pixels. Raise it with the `zoom` input once you know the full build fits.
+
+On quality: area-weighted, only ~4% of plan coverage was scanned finer than
+0.10 m/px and most sheets sit at 0.17–0.25 m/px, so **z19 is the level that
+matches the source data** and z18 gives up real detail on the sharper sheets.
+z20 is not practical here regardless: ~10.5 GB will not fit on a GitHub runner
+alongside its inputs and intermediate, and it is an unreasonable object to hand
+a browser.
 
 Figures are extrapolated from a measured 22-plan z19 build (45,427 × 26,225,
 227 MB, 14m29s) at **1.250 bytes per covered pixel**, scaled over the 6,805 ha the
 plans actually cover — which independently matches the city's published MPZP
-coverage figure of 6,814 ha.
+coverage figure of 6,814 ha. Warp times are from local hardware; a GitHub runner
+is meaningfully slower.
 
 Note that Web Mercator metres are not ground metres — at Toruń's latitude the scale
 factor is 1.662, so a `-tr` value of 0.5 means 0.30 m on the ground, not 0.5 m.
